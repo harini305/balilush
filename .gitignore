@@ -11,3 +11,6 @@ next-env.d.ts
 # They stay on disk for reference but are not published.
 docs/source-audit/raw-crawl/
 docs/source-audit/screenshots/
+
+.vercel
+.env*
