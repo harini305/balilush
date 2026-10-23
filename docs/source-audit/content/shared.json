@@ -1,0 +1,176 @@
+{
+ "header_nav": [
+  {
+   "label": "Rooms",
+   "href": "/rooms-and-accommodations"
+  },
+  {
+   "label": "Reviews",
+   "href": "/reviews"
+  },
+  {
+   "label": "Restaurant",
+   "href": "/restaurant",
+   "children": [
+    {
+     "label": "Breakfast",
+     "href": "/breakfast"
+    },
+    {
+     "label": "Lunch & Dinner",
+     "href": "/lunch-and-dinner"
+    }
+   ]
+  },
+  {
+   "label": "Activities",
+   "href": "/activities"
+  },
+  {
+   "label": "Retreats",
+   "href": "/retreats"
+  },
+  {
+   "label": "Blog",
+   "href": "/blog"
+  }
+ ],
+ "header_cta": {
+  "label": "BOOK YOUR STAY",
+  "href": "https://hotels.cloudbeds.com/en/reservation/tLFmXv?currency=idr"
+ },
+ "mobile_menu_extra": {
+  "label": "View Booking & Cancellation Policy",
+  "href": null,
+  "note": "Rendered in mobile menu; no destination found (no href)."
+ },
+ "logo": {
+  "file": "bali_lush_logo_edited.png",
+  "url": "https://static.wixstatic.com/media/046d7e_7ff9f91ac8994566901ec78d9a852c4a~mv2.png",
+  "size": "532x196 PNG (transparent)"
+ },
+ "footer": {
+  "nav": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Host a Retreat",
+    "href": null,
+    "note": "Not linked on live site (plain text). Intended target presumably /retreats."
+   },
+   {
+    "label": "Lush Blog",
+    "href": "/blog"
+   },
+   {
+    "label": "Rooms",
+    "href": "/rooms-and-accommodations"
+   },
+   {
+    "label": "Activities",
+    "href": "/activities"
+   },
+   {
+    "label": "Kitchen/Restaurant",
+    "href": "/restaurant"
+   }
+  ],
+  "cta": {
+   "label": "Book Now / Check Availability",
+   "href": "https://hotels.cloudbeds.com/en/reservation/tLFmXv?currency=idr"
+  },
+  "phone": "+62 823 2260 9344",
+  "email": "info@balilush.com",
+  "policy_link": {
+   "label": "Booking / Cancellation Policy",
+   "href": null,
+   "note": "<a> element without href; clicking does nothing. Policy text not found anywhere on site."
+  },
+  "legal": {
+   "text": "Site Terms | Privacy Policy",
+   "href": null,
+   "note": "Plain text, not linked; no terms/privacy pages exist (404)."
+  },
+  "copyright": "© 2026 Bali Lush"
+ },
+ "promo_lightbox": {
+  "aria_label": "Season Special Pop-up",
+  "trigger": "Auto-opens ~4.5-5.5 s after first page load in a session (desktop and mobile); did not re-open on subsequent navigation in the same session.",
+  "text_in_order": [
+   "Extended Stay\nOff-Peak Super Special",
+   "Pay 1 Stay 2 - Every 2nd Night Free",
+   "Valid for stays 1st Nov until 23rd Dec 2026",
+   "Other Seasonal Specials:",
+   "Pay 2 Stay 3 - Every 3rd Night Free",
+   "Valid for stays during Low Season - 8th Jan until 31st March",
+   "Pay 3 Stay 4 - Every 4th Night Free",
+   "Valid for stays during Mid Season - 1st Sept until 31st October",
+   "Only available when you book directly through Bali Lush",
+   "VIEW ALL SEASONAL SPECIALS",
+   "BOOK YOUR STAY"
+  ],
+  "links": [
+   {
+    "label": "book directly",
+    "href": "https://hotels.cloudbeds.com/en/reservation/tLFmXv?currency=idr"
+   },
+   {
+    "label": "VIEW ALL SEASONAL SPECIALS",
+    "href": "/rate-periods"
+   },
+   {
+    "label": "BOOK YOUR STAY",
+    "href": "https://hotels.cloudbeds.com/en/reservation/tLFmXv?currency=idr"
+   }
+  ],
+  "close": "X icon (aria-label \"Back to site\")"
+ },
+ "promo_strip": {
+  "pages": [
+   "home",
+   "rooms-and-accommodations"
+  ],
+  "heading": "Extended Stay Off-Peak Season Special",
+  "subheading": "Stay 4 Nights for the Price of 3, or 7 Nights for the Price of 5!",
+  "aside": "Only available when you book directly through Bali Lush",
+  "button": {
+   "label": "LEARN MORE",
+   "behaviour": "Re-opens the promo lightbox (no URL change)"
+  },
+  "note": "Offer wording conflicts with the lightbox and /rate-periods - see 08-issues."
+ },
+ "business_facts_from_external_sources": {
+  "source": "Cloudbeds booking engine page (hotels.cloudbeds.com/en/reservation/tLFmXv) structured data + visible text, 2026-10-21. NOT shown anywhere on balilush.com - confirm with the business before publishing.",
+  "address": "Pupuan Sawah, Selemadeg, Tabanan Regency, Bali, Indonesia 82162",
+  "geo": {
+   "lat": -8.44633007,
+   "lng": 115.05549622
+  },
+  "check_in": "2:00 PM",
+  "check_out": "12:00 PM",
+  "contact_name_on_cloudbeds": "Camron Henry",
+  "amenities_listed_on_cloudbeds": [
+   "Air conditioning",
+   "Board games / puzzles",
+   "Books, DVDs, music for kids",
+   "Cooking class",
+   "Darts",
+   "Garden",
+   "Internet",
+   "Laundry service",
+   "Massage",
+   "Non-smoking rooms",
+   "Pool / Beach towels",
+   "Restaurant",
+   "Safety deposit box",
+   "Shrine",
+   "Swimming pool",
+   "Walking Tours",
+   "(+1 more behind \"View All (17)\")"
+  ],
+  "tripadvisor_url": "https://www.tripadvisor.com.au/Hotel_Review-g608496-d8527654-Reviews-Bali_Lush-Tabanan_Bali.html",
+  "tripadvisor_location_in_url": "Tabanan, Bali"
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "route": "/rooms-and-accommodations",
+ "url": "https://www.balilush.com/rooms-and-accommodations",
+ "title": "Rooms & Accommodations | Bali Lush",
+ "meta_description": "Our eco retreat in Bali offers three gorgeous free-standing bungalows that include a perfect fusion of Indonesian architecture and modern western comforts. Explore our rooms and book your stay. Each space can accommodate anywhere from small parties of 2 to larger parties of 5.  Select a room to see additional details.",
+ "og": {
+  "og:title": "Rooms & Accommodations | Bali Lush",
+  "og:description": "Our eco retreat in Bali offers three gorgeous free-standing bungalows that include a perfect fusion of Indonesian architecture and modern western comforts. Explore our rooms and book your stay. Each space can accommodate anywhere from small parties of 2 to larger parties of 5.  Select a room to see additional details.",
+  "og:url": "https://www.balilush.com/rooms-and-accommodations",
+  "og:site_name": "Bali Lush",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Rooms & Accommodations | Bali Lush",
+  "twitter:description": "Our eco retreat in Bali offers three gorgeous free-standing bungalows that include a perfect fusion of Indonesian architecture and modern western comforts. Explore our rooms and book your stay. Each space can accommodate anywhere from small parties of 2 to larger parties of 5.  Select a room to see additional details."
+ },
+ "canonical": [
+  "https://www.balilush.com/rooms-and-accommodations"
+ ],
+ "sections_in_order": [
+  {
+   "section_id": "comp-mf6vqdsi",
+   "y": 0,
+   "height": 451,
+   "text_preview": "Cottages & Bungalows Explore our rooms and book your stay. Each of our unique rooms and cottages can accommodate anywhere from small parties of 2 to larger part"
+  },
+  {
+   "section_id": "comp-mf5oo3fb",
+   "y": 451,
+   "height": 816,
+   "text_preview": "Butterfly Room Sleeps 2-3 Dragonfly Room Sleeps Up to 5 Frog Bungalow Sleeps 2-3 Duck Cottage Sleeps Up to 5"
+  },
+  {
+   "section_id": "comp-mfwlzuk3",
+   "y": 1268,
+   "height": 109,
+   "text_preview": "Extended Stay Off-Peak Season Special Stay 4 Nights for the Price of 3, or 7 Nights for the Price of 5! Only available when you book directly through Bali Lush "
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "h1",
+   "text": "Cottages & Bungalows",
+   "section_id": "comp-mf6vqdsi",
+   "y": 223,
+   "font": "assistant-light",
+   "size": "52.0191px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Explore our rooms and book your stay. Each of our unique rooms and cottages can accommodate anywhere from small parties of 2 to larger parties of 5.  Select a room to see additional details.",
+   "section_id": "comp-mf6vqdsi",
+   "y": 290,
+   "font": "wix-madefor-text-v2",
+   "size": "18px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Butterfly Room",
+   "section_id": "comp-mf5oo3fb",
+   "y": 548,
+   "font": "dancingscript-regular",
+   "size": "37.5653px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Dragonfly Room",
+   "section_id": "comp-mf5oo3fb",
+   "y": 548,
+   "font": "dancingscript-regular",
+   "size": "37.5653px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Sleeps",
+   "section_id": "comp-mf5oo3fb",
+   "y": 772,
+   "font": "madefor-text-extrabold",
+   "size": "19.1491px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "2-3",
+   "section_id": "comp-mf5oo3fb",
+   "y": 798,
+   "font": "wix-madefor-text-v2",
+   "size": "18.5083px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Up to 5",
+   "section_id": "comp-mf5oo3fb",
+   "y": 798,
+   "font": "wix-madefor-text-v2",
+   "size": "18.5083px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Frog Bungalow",
+   "section_id": "comp-mf5oo3fb",
+   "y": 898,
+   "font": "dancingscript-regular",
+   "size": "37.5653px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Duck Cottage",
+   "section_id": "comp-mf5oo3fb",
+   "y": 898,
+   "font": "dancingscript-regular",
+   "size": "37.5653px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Sleeps",
+   "section_id": "comp-mf5oo3fb",
+   "y": 1122,
+   "font": "madefor-text-extrabold",
+   "size": "19.1491px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "2-3",
+   "section_id": "comp-mf5oo3fb",
+   "y": 1149,
+   "font": "wix-madefor-text-v2",
+   "size": "18.5083px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Up to 5",
+   "section_id": "comp-mf5oo3fb",
+   "y": 1149,
+   "font": "wix-madefor-text-v2",
+   "size": "18.5083px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Extended Stay Off-Peak Season Special",
+   "section_id": "comp-mfwlzuk3",
+   "y": 1287,
+   "font": "assistant-v2",
+   "size": "36px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "a",
+   "text": "LEARN MORE",
+   "section_id": "comp-mfwlzuk3",
+   "y": 1287,
+   "font": "madefor-text",
+   "size": "15.9368px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Only available when you book directly through Bali Lush",
+   "section_id": "comp-mfwlzuk3",
+   "y": 1292,
+   "font": "assistant-v2",
+   "size": "27.1836px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Stay 4 Nights for the Price of 3, or 7 Nights for the Price of 5!",
+   "section_id": "comp-mfwlzuk3",
+   "y": 1331,
+   "font": "assistant-v2",
+   "size": "24.2739px",
+   "weight": "300",
+   "color": "#FFFFFF"
+  }
+ ],
+ "note": "Blocks are in visual order (desktop 1440px). Header, footer and the site-wide promo lightbox are in ../shared.json. Blog comments (spam) intentionally excluded."
+}

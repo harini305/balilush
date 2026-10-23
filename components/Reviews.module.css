@@ -1,0 +1,140 @@
+/* ---------- Card ---------- */
+.card {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-s);
+  padding: var(--space-l);
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+.room {
+  align-self: flex-start;
+  font-size: var(--step--1);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--magenta);
+  text-decoration: none;
+}
+.room:hover { text-decoration: underline; }
+
+.quote { margin: 0; }
+
+.textWrap { display: grid; gap: var(--space-xs); justify-items: start; }
+
+.text p { color: var(--ink); line-height: 1.7; }
+
+.text[data-clamped] {
+  max-height: 11.5em;
+  overflow: hidden;
+  mask-image: linear-gradient(to bottom, #000 60%, transparent);
+}
+
+.more {
+  padding: 0.25rem 0;
+  border: 0;
+  background: none;
+  font-weight: 700;
+  font-size: var(--step--1);
+  text-decoration: underline;
+  text-decoration-color: var(--green);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.3em;
+  cursor: pointer;
+}
+
+.author {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.25rem 1rem;
+  padding-top: var(--space-s);
+  border-top: 1px solid var(--line);
+  font-size: var(--step--1);
+}
+.name { font-weight: 700; }
+.location { color: var(--ink-mute); }
+
+/* ---------- Filter + masonry (/reviews) ---------- */
+.filter {
+  display: grid;
+  gap: var(--space-s);
+  margin-bottom: var(--space-xl);
+}
+
+.filterLabel { font-weight: 700; }
+
+.filterOptions { display: flex; flex-wrap: wrap; gap: var(--space-xs); }
+
+.filterButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  min-height: 44px;
+  padding: 0.4rem 0.95rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--paper);
+  font-weight: 600;
+  cursor: pointer;
+}
+.filterButton:hover { border-color: var(--ink); }
+.filterButton[aria-pressed='true'] { background: var(--ink); border-color: var(--ink); color: var(--white); }
+
+.count {
+  font-size: 0.8em;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-mute);
+}
+.filterButton[aria-pressed='true'] .count { color: var(--lime); }
+
+.masonry { list-style: none; columns: 1; column-gap: var(--space-m); }
+@media (min-width: 720px) { .masonry { columns: 2; } }
+@media (min-width: 1100px) { .masonry { columns: 3; } }
+
+.item { break-inside: avoid; margin-bottom: var(--space-m); }
+.item[hidden] { display: none; }
+
+/* ---------- Slider (home) ---------- */
+.slider { display: grid; gap: var(--space-l); }
+
+.slide { min-height: 18rem; animation: fadeSlide 0.35s ease; }
+
+@keyframes fadeSlide { from { opacity: 0; transform: translateY(6px); } }
+
+.slideTitle {
+  font-size: var(--step-3);
+  font-weight: 400;
+  color: var(--white);
+  margin-bottom: var(--space-m);
+}
+
+.slideQuote { margin: 0; max-width: 46rem; }
+.slideQuote p { color: rgb(255 255 255 / 0.88); font-size: var(--step-1); line-height: 1.6; }
+
+.slideAuthor { margin-top: var(--space-m); font-weight: 700; color: var(--white); }
+.slideAuthor a { color: var(--lime); font-weight: 600; }
+
+.sliderControls { display: flex; align-items: center; gap: var(--space-s); }
+
+.arrow {
+  display: grid;
+  place-items: center;
+  width: 46px;
+  height: 46px;
+  padding: 0;
+  border: 1px solid rgb(255 255 255 / 0.35);
+  border-radius: 50%;
+  background: transparent;
+  color: var(--white);
+  cursor: pointer;
+}
+.arrow:hover { border-color: var(--lime); color: var(--lime); }
+
+.position { min-width: 3.5rem; text-align: center; font-variant-numeric: tabular-nums; color: rgb(255 255 255 / 0.75); }
+
+@media (prefers-reduced-motion: reduce) {
+  .slide { animation: none; }
+}

@@ -1,0 +1,706 @@
+{
+ "route": "/breakfast",
+ "url": "https://www.balilush.com/breakfast",
+ "title": "Breakfast | Menu | Bali Lush",
+ "meta_description": "Selamat Pagi. Silakan Makan Sarapan. Explore the full breakfast menu at Bali Lush. Breakfast includes fresh baked goods, Bali Coffee, Twinnings Tea, Jamu and more.",
+ "og": {
+  "og:title": "Breakfast | Menu | Bali Lush",
+  "og:description": "Selamat Pagi. Silakan Makan Sarapan. Explore the full breakfast menu at Bali Lush. Breakfast includes fresh baked goods, Bali Coffee, Twinnings Tea, Jamu and more.",
+  "og:url": "https://www.balilush.com/breakfast",
+  "og:site_name": "Bali Lush",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Breakfast | Menu | Bali Lush",
+  "twitter:description": "Selamat Pagi. Silakan Makan Sarapan. Explore the full breakfast menu at Bali Lush. Breakfast includes fresh baked goods, Bali Coffee, Twinnings Tea, Jamu and more."
+ },
+ "canonical": [
+  "https://www.balilush.com/breakfast"
+ ],
+ "sections_in_order": [
+  {
+   "section_id": "comp-mf5ocys3",
+   "y": 0,
+   "height": 451,
+   "text_preview": "Breakfast Menu"
+  },
+  {
+   "section_id": "comp-mf5ocysf2",
+   "y": 451,
+   "height": 3850,
+   "text_preview": "Selamat Pagi Silakan Makan Sarapan Good Morning - Enjoy Your Breakfast Please note our staff will take your order the night before. All Rooms Include Breakfast "
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "h1",
+   "text": "Breakfast Menu",
+   "section_id": "comp-mf5ocys3",
+   "y": 322,
+   "font": "assistant-light",
+   "size": "52.0187px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Selamat Pagi\nSilakan Makan Sarapan",
+   "section_id": "comp-mf5ocysf2",
+   "y": 549,
+   "font": "assistant-v2",
+   "size": "52.0187px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Good Morning - Enjoy Your Breakfast",
+   "section_id": "comp-mf5ocysf2",
+   "y": 673,
+   "font": "assistant-light",
+   "size": "39.9603px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Please note our staff will take your order the night before.",
+   "section_id": "comp-mf5ocysf2",
+   "y": 727,
+   "font": "wix-madefor-text-v2",
+   "size": "22.7668px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "All Rooms Include Breakfast with the Following:",
+   "section_id": "comp-mf5ocysf2",
+   "y": 829,
+   "font": "wix-madefor-text-v2",
+   "size": "22.7668px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Also Included:",
+   "section_id": "comp-mf5ocysf2",
+   "y": 831,
+   "font": "wix-madefor-text-v2",
+   "size": "22.7668px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "1 x Fruit Plate or Fresh Fruit Juice",
+   "section_id": "comp-mf5ocysf2",
+   "y": 879,
+   "font": "wix-madefor-text-v2",
+   "size": "25.0435px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Bali Coffee, Twinnings Tea, Water (as much as you like)",
+   "section_id": "comp-mf5ocysf2",
+   "y": 881,
+   "font": "wix-madefor-text-v2",
+   "size": "22.7668px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Jamu - traditional Indonesian Herbal Tonic. Made from fresh turmeric, ginger, kencur (sand ginger) lime juice, salt and palm sugar.",
+   "section_id": "comp-mf5ocysf2",
+   "y": 931,
+   "font": "wix-madefor-text-v2",
+   "size": "22.7668px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "1 x Premium Coffee or Pot Tea",
+   "section_id": "comp-mf5ocysf2",
+   "y": 934,
+   "font": "wix-madefor-text-v2",
+   "size": "25.0435px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "1 x Main or Indonesian",
+   "section_id": "comp-mf5ocysf2",
+   "y": 989,
+   "font": "wix-madefor-text-v2",
+   "size": "25.0435px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Made from fresh turmeric, ginger, kencur (sand ginger) lime juice, salt and palm sugar. Try it neat as a shot, or dilute it with warm water. Great way to start the day the Bali Lush way.",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1019,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "1 x Bakery",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1044,
+   "font": "wix-madefor-text-v2",
+   "size": "25.0435px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h1",
+   "text": "Premium Coffee or Pot of Tea",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1203,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Cappucino",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1279,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Caffe Latte",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1322,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Moka Pot",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1366,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Vietnamese Drip",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1409,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Fresh Herb Tea",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1453,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Ginger, Peppermint, Lemongrass",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1483,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Herbal Tea",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1525,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Peppermint, Chamomile",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1555,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Loose Leaf Tea",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1598,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Ginger, Peppermint, Lemongrass",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1628,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Loose Leaf Black Tea",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1670,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "English Breakfast, Earl Grey, Jasmine",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1700,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "*choose your milk",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1742,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Fresh cows milk or",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1771,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Plant milk: soy, oat or coconut (house made)",
+   "section_id": "comp-mf5ocysf2",
+   "y": 1800,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h1",
+   "text": "Main Breakfast",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2247,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Eggs Your Way",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2323,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "2 eggs fried, poached, scrambled, or boiled on toast",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2353,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Omelet",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2395,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "2 or 3 eggs, with your choice of vegetables and/or feta cheese",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2425,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "French Crepes",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2468,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pancakes",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2511,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Tropical Fruit Smoothie Bowls (VG)",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2555,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Oil-free and refined sugar-free",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2585,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Spice Islands Granola* (VG)",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2627,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Oil-free and refined sugar-free \nDried mango, papaya, pineapple, coconut flakes, cinnamon, cloves, ginger, cardamom, cashew  nuts, pumpkin, sesame and sunflower seeds, oats and",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2657,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Cashew Nut and Mixed Seeds Muesli *(VG)",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2757,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "100% Sugar free, Low GI, lightly toasted, no fruit.",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2787,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Loose Leaf Black Tea",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2830,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "English Breakfast, Earl Grey, Jasmine",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2860,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "*Choose your milk or yogurt: Coconut yogurt (house made) Plain Yogurt",
+   "section_id": "comp-mf5ocysf2",
+   "y": 2911,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h1",
+   "text": "(dairy) Indonesian Breakfast",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3070,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Nasi Goreng - Sayuran atau Ayam",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3146,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "stir fried rice vegetarian or chicken with a fried egg",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3175,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Mie Goreng - Sayuran atau Ayam",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3218,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "stir fried noodles vegetarian or chicken with a fried egg",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3248,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Bubur Ayam",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3290,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "rice porridge served with chicken stock and your choice of toppings and condiments: shredded  chicken; hard boiled egg; fried asian shallots; coriander leaf; sweet soy sauce",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3320,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Tumis Paku",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3391,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "fiddle head ferns harvested fresh from the garden, stir fried with garlic, shallots and chili",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3421,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Bubur Hitam",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3464,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "black glutinous rice porridge cooked with coconut milk & palm sugar, served with coconut cream",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3494,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h1",
+   "text": "Bakery",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3681,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Country Sourdough (V)",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3757,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Gluten Free Sandwich Loaf (V)(GF)",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3801,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Honey, Oats and Rye Sourdough Discard Loaf",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3844,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "great for digestion",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3874,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Banana Bread",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3916,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "best on the island",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3946,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "English Crumpets",
+   "section_id": "comp-mf5ocysf2",
+   "y": 3989,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "very yummy with butter and honey",
+   "section_id": "comp-mf5ocysf2",
+   "y": 4019,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "*House made vegan butter available on request",
+   "section_id": "comp-mf5ocysf2",
+   "y": 4061,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Our gluten free bread is made from potato starch, sweet white rice flour, brown  rice flour, tapioca flour, chickpea flour, and xanthan gum.",
+   "section_id": "comp-mf5ocysf2",
+   "y": 4107,
+   "font": "wix-madefor-text-v2",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  }
+ ],
+ "note": "Blocks are in visual order (desktop 1440px). Header, footer and the site-wide promo lightbox are in ../shared.json. Blog comments (spam) intentionally excluded."
+}

@@ -1,0 +1,212 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  height: var(--header-h);
+  background: var(--night);
+  color: var(--white);
+  transition: box-shadow 0.25s ease;
+}
+
+.header[data-scrolled] { box-shadow: 0 1px 0 var(--line-dark), 0 8px 24px rgb(0 0 0 / 0.18); }
+
+.bar {
+  display: flex;
+  align-items: center;
+  gap: var(--space-l);
+  height: 100%;
+  max-width: calc(var(--max) + var(--gutter) * 2);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+.logo { display: block; flex: none; }
+.logo img { width: auto; height: 40px; }
+
+@media (min-width: 1024px) {
+  .logo img { height: 50px; }
+}
+
+/* ---------- Desktop nav ---------- */
+.nav { display: none; margin-inline: auto; }
+
+.navList { display: flex; align-items: center; gap: clamp(0.75rem, 1.6vw, 1.75rem); list-style: none; }
+
+.navLink {
+  display: inline-block;
+  padding-block: 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--white);
+  border-bottom: 2px solid transparent;
+}
+.navLink:hover { color: var(--lime); }
+.navLink[aria-current='page'] { border-bottom-color: var(--green); }
+
+.hasDropdown { position: relative; display: flex; align-items: center; gap: 0.15rem; }
+
+.dropdownToggle {
+  display: grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 0;
+  border-radius: var(--radius);
+  background: transparent;
+  color: var(--white);
+  cursor: pointer;
+}
+.dropdownToggle:hover { color: var(--lime); }
+.dropdownToggle svg { transition: transform 0.2s ease; }
+.hasDropdown[data-open] .dropdownToggle svg { transform: rotate(180deg); }
+
+.dropdown {
+  position: absolute;
+  top: 100%;
+  left: -1rem;
+  min-width: 13rem;
+  padding: 0.5rem 0;
+  list-style: none;
+  background: var(--night);
+  border: 1px solid var(--line-dark);
+  border-radius: 0 0 var(--radius) var(--radius);
+  box-shadow: 0 12px 28px rgb(0 0 0 / 0.3);
+  visibility: hidden;
+  opacity: 0;
+  transform: translateY(-4px);
+  transition: opacity 0.18s ease, transform 0.18s ease, visibility 0s linear 0.18s;
+}
+
+.hasDropdown[data-open] .dropdown,
+.hasDropdown:hover .dropdown {
+  visibility: visible;
+  opacity: 1;
+  transform: none;
+  transition-delay: 0s;
+}
+
+.dropdown a {
+  display: block;
+  padding: 0.55rem 1rem;
+  text-decoration: none;
+  font-weight: 600;
+}
+.dropdown a:hover, .dropdown a[aria-current='page'] { color: var(--lime); }
+
+/* ---------- Actions ---------- */
+.actions { display: flex; align-items: center; gap: var(--space-xs); margin-left: auto; }
+
+@media (min-width: 1024px) {
+  .nav { display: block; }
+  .actions { margin-left: 0; }
+}
+
+.book { min-height: 40px; padding-inline: 1rem; }
+.bookLong { display: none; }
+
+@media (min-width: 420px) {
+  .bookLong { display: inline; }
+  .bookShort { display: none; }
+}
+
+.menuButton {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 1px solid var(--line-dark);
+  border-radius: var(--radius);
+  background: transparent;
+  color: var(--white);
+  cursor: pointer;
+}
+
+@media (min-width: 1024px) {
+  .menuButton { display: none; }
+}
+
+/* ---------- Drawer ---------- */
+.drawer {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--white);
+}
+
+.drawer::backdrop { background: rgb(0 0 0 / 0.55); }
+
+.drawerPanel {
+  margin-left: auto;
+  display: flex;
+  flex-direction: column;
+  width: min(22rem, 88vw);
+  height: 100%;
+  overflow-y: auto;
+  background: var(--night);
+  padding: var(--space-m) var(--space-l) var(--space-xl);
+}
+
+.drawer[open] .drawerPanel { animation: slideIn 0.24s ease-out; }
+
+@keyframes slideIn {
+  from { transform: translateX(24px); opacity: 0; }
+}
+
+.drawerTop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: calc(var(--header-h) - var(--space-m));
+  border-bottom: 1px solid var(--line-dark);
+}
+
+.drawerTitle { font-weight: 700; letter-spacing: 0.02em; color: var(--lime); }
+
+.closeButton, .subToggle {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--white);
+  cursor: pointer;
+}
+
+.drawerList { list-style: none; padding-block: var(--space-m); }
+
+.drawerList a {
+  display: block;
+  padding: 0.6rem 0;
+  font-family: var(--font-heading);
+  font-size: 1.35rem;
+  text-decoration: none;
+}
+.drawerList a[aria-current='page'] { color: var(--lime); }
+
+.drawerRow { display: flex; align-items: center; justify-content: space-between; }
+.subToggle svg { transition: transform 0.2s ease; }
+.subToggle[aria-expanded='true'] svg { transform: rotate(180deg); }
+
+.drawerSub { list-style: none; padding-left: var(--space-m); border-left: 2px solid var(--green); margin-bottom: var(--space-xs); }
+.drawerSub a { font-family: var(--font-body); font-size: 1.05rem; padding: 0.45rem 0; }
+
+.drawerFoot {
+  display: grid;
+  gap: var(--space-s);
+  margin-top: auto;
+  padding-top: var(--space-l);
+  border-top: 1px solid var(--line-dark);
+}
+.drawerFoot a:not(:global(.btn)) { color: rgb(255 255 255 / 0.8); text-decoration: none; }

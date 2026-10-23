@@ -1,0 +1,69 @@
+.h2 { font-size: var(--step-4); }
+
+/* ---------- Hero ---------- */
+.hero { background: var(--sand); }
+
+.heroInner {
+  display: grid;
+  gap: var(--space-l);
+  padding-block: var(--space-l);
+}
+
+@media (min-width: 900px) {
+  .heroInner { grid-template-columns: 1.1fr 0.9fr; align-items: stretch; gap: clamp(2rem, 5vw, 4.5rem); }
+}
+
+.heroText { display: grid; gap: var(--space-l); justify-items: start; align-content: center; }
+.heroImage { aspect-ratio: 4 / 3; }
+@media (min-width: 900px) {
+  .heroImage { aspect-ratio: auto; min-height: 22rem; }
+  .heroImage > picture { position: absolute; inset: 0; }
+}
+
+/* ---------- Text beside a photo that fills the text's height ---------- */
+.split { display: grid; gap: var(--space-xl); }
+@media (min-width: 900px) {
+  .split { grid-template-columns: 1fr 1fr; align-items: stretch; gap: clamp(2rem, 5vw, 4.5rem); }
+}
+
+.fillImage { aspect-ratio: 4 / 3; }
+@media (min-width: 900px) {
+  .fillImage { aspect-ratio: auto; min-height: 20rem; }
+  .fillImage > picture { position: absolute; inset: 0; }
+}
+
+.splitText { display: grid; gap: var(--space-m); justify-items: start; align-content: center; }
+.splitText p { margin: 0; color: var(--ink-soft); max-width: var(--max-text); }
+
+/* ---------- Two equal columns: kitchen + shala ---------- */
+.pair { display: grid; gap: var(--space-2xl); }
+@media (min-width: 900px) { .pair { grid-template-columns: 1fr 1fr; gap: clamp(2rem, 5vw, 4rem); } }
+
+.pairItem { display: grid; gap: var(--space-s); align-content: start; justify-items: start; }
+.pairItem p { margin: 0; color: var(--ink-soft); }
+.pairImage { width: 100%; aspect-ratio: 3 / 2; margin-bottom: var(--space-xs); }
+.pairItem :global(.btn) { margin-top: var(--space-xs); }
+
+/* ---------- Photo rows ---------- */
+.rowHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-m);
+  margin-bottom: var(--space-l);
+}
+
+.quad {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-xs);
+}
+.quad > li { aspect-ratio: 1; }
+@media (min-width: 900px) {
+  .quad { grid-template-columns: repeat(4, 1fr); }
+  .quad > li { aspect-ratio: 4 / 5; }
+}
+
+.galleryTitle { margin-bottom: var(--space-l); }

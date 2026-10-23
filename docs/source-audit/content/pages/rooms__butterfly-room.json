@@ -1,0 +1,507 @@
+{
+ "route": "/rooms/butterfly-room",
+ "url": "https://www.balilush.com/rooms/butterfly-room",
+ "title": "Butterfly Room | Bali Lush",
+ "meta_description": null,
+ "og": {
+  "og:title": "Butterfly Room | Bali Lush",
+  "og:image": "https://static.wixstatic.com/media/046d7e_105c97c29caa4222b031dd2bccfcad33~mv2.jpg/v1/fill/w_800,h_531,al_c,q_85/DSC_0748_resize.jpg",
+  "og:image:width": "800",
+  "og:image:height": "531",
+  "og:url": "https://www.balilush.com/rooms/butterfly-room",
+  "og:site_name": "Bali Lush",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Butterfly Room | Bali Lush",
+  "twitter:image": "https://static.wixstatic.com/media/046d7e_105c97c29caa4222b031dd2bccfcad33~mv2.jpg/v1/fill/w_800,h_531,al_c,q_85/DSC_0748_resize.jpg"
+ },
+ "canonical": [
+  "https://www.balilush.com/rooms/butterfly-room"
+ ],
+ "sections_in_order": [
+  {
+   "section_id": "comp-maraff1e",
+   "y": 0,
+   "height": 388,
+   "text_preview": "Suitable for Couples Sleeps 2-3 Book Your Stay Butterfly Room"
+  },
+  {
+   "section_id": "comp-mfwne6qz",
+   "y": 388,
+   "height": 1273,
+   "text_preview": ""
+  },
+  {
+   "section_id": "comp-mfwniwpf",
+   "y": 1660,
+   "height": 771,
+   "text_preview": "Butterfly room is a deluxe king room and is one of two rooms that that make up Kambing house; an almost 100 year old teak ‘Limasan' family house from central Ja"
+  },
+  {
+   "section_id": "comp-mf6wyo49",
+   "y": 2431,
+   "height": 824,
+   "text_preview": "Reviews from This Room... > View All Testimonials My husband and I came here for our honeymoon and absolutely loved it! We were blown away with how beautiful th"
+  },
+  {
+   "section_id": "comp-mf6ws4dh",
+   "y": 3255,
+   "height": 441,
+   "text_preview": "Explore Other Rooms Dragonfly Room Sleeps Up to 5 Frog Bungalow Sleeps 2-3 Duck Cottage Sleeps Up to 5"
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "h2",
+   "text": "Butterfly Room",
+   "section_id": "comp-maraff1e",
+   "y": 252,
+   "font": "dancingscript-regular",
+   "size": "55px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "a",
+   "text": "Book Your Stay",
+   "section_id": "comp-maraff1e",
+   "y": 258,
+   "font": "madefor-text",
+   "size": "18.2134px",
+   "weight": "400",
+   "color": "#FFFFFF",
+   "href": "https://hotels.cloudbeds.com/en/reservation/tLFmXv?currency=idr"
+  },
+  {
+   "tag": "p",
+   "text": "Suitable for",
+   "section_id": "comp-maraff1e",
+   "y": 260,
+   "font": "assistant-v2",
+   "size": "20.25px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Sleeps",
+   "section_id": "comp-maraff1e",
+   "y": 261,
+   "font": "assistant-v2",
+   "size": "20.25px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Couples",
+   "section_id": "comp-maraff1e",
+   "y": 287,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "2-3",
+   "section_id": "comp-maraff1e",
+   "y": 289,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Butterfly room is a deluxe king room and is one of two rooms that that make up Kambing house; an almost 100 year old teak ‘Limasan' family house from central Java that has been divided into 2 guest rooms. Butterfly rooms shares an entrance with Dragonfly room and has private use of half of the oversized verandah. Kambing house is located closest to the rice terraces and river and is thus furthest from the restaurant and swimming pool.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1732,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Amenities:",
+   "section_id": "comp-mfwniwpf",
+   "y": 1732,
+   "font": "assistant-v2",
+   "size": "29.3976px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Air conditioning and twin ceiling fans",
+   "section_id": "comp-mfwniwpf",
+   "y": 1789,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Block out curtains",
+   "section_id": "comp-mfwniwpf",
+   "y": 1814,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Bed side lamps and individual reading lights",
+   "section_id": "comp-mfwniwpf",
+   "y": 1840,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "International charging sockets (no need to pack those international adapters)",
+   "section_id": "comp-mfwniwpf",
+   "y": 1866,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Sateen cotton sheets and covers",
+   "section_id": "comp-mfwniwpf",
+   "y": 1891,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "It is the coolest of the rooms, the last room that needs the aircon switched on, and is also the room with the least natural light. Perfect for guests who like to sleep in. The bathroom has the most spectacular view of all the bathrooms at Bali Lush; a picture window looks directly out across the rice terraces making for a very special shower experience.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1911,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Summer weight duvet",
+   "section_id": "comp-mfwniwpf",
+   "y": 1917,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "2 standard and 2 super king luxury hotel pillows for the King bed and 1 standard and 1 super",
+   "section_id": "comp-mfwniwpf",
+   "y": 1942,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "King pillow for the single bed if needed.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1993,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Guest soaps by Bali Asli",
+   "section_id": "comp-mfwniwpf",
+   "y": 2019,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "1 pool towel, 1 bath towel and face washer per guest",
+   "section_id": "comp-mfwniwpf",
+   "y": 2045,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "The room is most suitable for solo travellers, couples, or a family of 3 and comes standard as Super King four poster canopy bed 200 x 200 cm with mosquito net and 1 single bed 90 cm x 180 cm. Families or groups of friends wishing to have seperate bedrooms adjoining each other should book both Dragonfly and Butterfly rooms together.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2065,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Flat screen LCD TV",
+   "section_id": "comp-mfwniwpf",
+   "y": 2070,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "DVD player",
+   "section_id": "comp-mfwniwpf",
+   "y": 2096,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Selection of DVD’s and books",
+   "section_id": "comp-mfwniwpf",
+   "y": 2121,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Mini bar",
+   "section_id": "comp-mfwniwpf",
+   "y": 2147,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "In-room lap top safe",
+   "section_id": "comp-mfwniwpf",
+   "y": 2173,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "N.B the king beds in both Dragonfly and Butterfly rooms can not be split into twin singles like Frog Bungalow or Duck Cottage.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2193,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Tea and coffee making facilities",
+   "section_id": "comp-mfwniwpf",
+   "y": 2198,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "We are one of the few properties where it is safe to drink the water direct from our taps. Bali Lush has a private well and the water is sourced on site through 60M of volcanic rock.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2224,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Reviews from This Room...",
+   "section_id": "comp-mf6wyo49",
+   "y": 2506,
+   "font": "assistant-v2",
+   "size": "31.5537px",
+   "weight": "600",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "> View All Testimonials",
+   "section_id": "comp-mf6wyo49",
+   "y": 2512,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#AE095B"
+  },
+  {
+   "tag": "p",
+   "text": "My husband and I came here for our honeymoon and absolutely loved it! We were blown away with how beautiful the area was, and loved the tours around the area. Very relaxing place and highly recommend!",
+   "section_id": "comp-mf6wyo49",
+   "y": 2600,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "The Bali in your dream. Serene and peaceful. Beautifully decorated Java house and plantation. I can't get tired of the view ever.  Attentive staff and warm hosts. Your hospitality and life wisdom have really inspired me. I cant love this place more. Food was simple but delicious. It changed my view towards Bali. Thank you so much!!",
+   "section_id": "comp-mf6wyo49",
+   "y": 2600,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Danielle R",
+   "section_id": "comp-mf6wyo49",
+   "y": 2693,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "CYH",
+   "section_id": "comp-mf6wyo49",
+   "y": 2744,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "It only took one night for us to fall in love with Bali Lush! Set against a breathtaking backdrop of lush, tiered rice fields, this Javanese-inspired boutique retreat felt welcoming from the moment we arrived. The food is some of the best we had on our trip, thanks to the care and menu planning by host/co-owner Camron Henry. She handpicks tried-and-true recipes that showcase Bali's amazing offerings, plus, her kitchen bakes homemade bread that's to die for. What's more, I celebrated by birthday there and Camron's staff surprised me with the most delectable chocolate cake! Ok - one more thing: I also had the best in-room massage there. Seriously. Camron, her husband David, their sweet dogs and wonderful staff make Bali Lush a place that we can't wait to return to next time!",
+   "section_id": "comp-mf6wyo49",
+   "y": 2852,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "The place to stay if to want to have a good rest in the nature. Good cooking (important for French people) and good advise to visit interesting areas. All the team is very friendly.No négative remark can be said about this place. We will have to come back",
+   "section_id": "comp-mf6wyo49",
+   "y": 2852,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Ji-l B",
+   "section_id": "comp-mf6wyo49",
+   "y": 2971,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Lisa A",
+   "section_id": "comp-mf6wyo49",
+   "y": 3150,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Explore Other Rooms",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3285,
+   "font": "assistant-v2",
+   "size": "31.5537px",
+   "weight": "600",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Dragonfly Room",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3366,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Frog Bungalow",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3366,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Duck Cottage",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3366,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Sleeps",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3558,
+   "font": "madefor-text-extrabold",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Up to 5",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3586,
+   "font": "wix-madefor-text-v2",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "2-3",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3586,
+   "font": "wix-madefor-text-v2",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  }
+ ],
+ "note": "Blocks are in visual order (desktop 1440px). Header, footer and the site-wide promo lightbox are in ../shared.json. Blog comments (spam) intentionally excluded."
+}

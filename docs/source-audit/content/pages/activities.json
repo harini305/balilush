@@ -1,0 +1,496 @@
+{
+ "route": "/activities",
+ "url": "https://www.balilush.com/activities",
+ "title": "Activities & Adventures | Bali Lush",
+ "meta_description": "From outdoor hikes and waterfall explorations, to crafting and cooking lessons, trips to local markets, motorbike excursions and a range of unique guided tours. ",
+ "og": {
+  "og:title": "Activities & Adventures | Bali Lush",
+  "og:description": "From outdoor hikes and waterfall explorations, to crafting and cooking lessons, trips to local markets, motorbike excursions and a range of unique guided tours. ",
+  "og:url": "https://www.balilush.com/activities",
+  "og:site_name": "Bali Lush",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Activities & Adventures | Bali Lush",
+  "twitter:description": "From outdoor hikes and waterfall explorations, to crafting and cooking lessons, trips to local markets, motorbike excursions and a range of unique guided tours. "
+ },
+ "canonical": [
+  "https://www.balilush.com/activities"
+ ],
+ "sections_in_order": [
+  {
+   "section_id": "comp-mauzs1el",
+   "y": 0,
+   "height": 451,
+   "text_preview": "Activities & Things to Do From outdoor hikes and waterfall explorations, to crafting and cooking lessons, trips to local markets, motorbike excursions and a ran"
+  },
+  {
+   "section_id": "comp-mcw2ytgg",
+   "y": 451,
+   "height": 4613,
+   "text_preview": "Walks & Treks Guided walks are available with our local guides. The route is decided by the guide based on weather conditions, your level of fitness, and we aim"
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "h1",
+   "text": "Activities & Things to Do",
+   "section_id": "comp-mauzs1el",
+   "y": 252,
+   "font": "assistant-light",
+   "size": "52.0191px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "From outdoor hikes and waterfall explorations, to crafting and cooking lessons, trips to local markets, motorbike excursions and a range of unique guided tours.",
+   "section_id": "comp-mauzs1el",
+   "y": 319,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Walks & Treks",
+   "section_id": "comp-mcw2ytgg",
+   "y": 552,
+   "font": "assistant-v2",
+   "size": "30.2412px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Guided walks are available with our local guides.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 605,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "The route is decided by the guide based on weather conditions, your level of fitness, and we aim to take into account your preferences regarding time of day and things you would like to see.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 633,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Our shortest walk is 1hr, our most common walk is 2hrs and includes a swim at a local waterfall. Our guides can answer your questions about the local area, rice farming, the temples, and village life en-route. They also point out fruits, flowers, and plants used as traditional medicines.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 749,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Gentle walks and more extensive treks can be arranged for the following prices:",
+   "section_id": "comp-mcw2ytgg",
+   "y": 864,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Self Guided Walking: If you prefer to walk without a guide we can provide you with Google Map directions and way points to help you find your way!",
+   "section_id": "comp-mcw2ytgg",
+   "y": 950,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "If you would like to trek Mount Batu Karu, we offer this as a completely separate activity.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 1065,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Per guide: first 1-2 hours Rp200,000 (each additional hour Rp100,000)",
+   "section_id": "comp-mcw2ytgg",
+   "y": 1133,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#AE095B"
+  },
+  {
+   "tag": "h2",
+   "text": "Cooking Classes",
+   "section_id": "comp-mcw2ytgg",
+   "y": 1276,
+   "font": "assistant-v2",
+   "size": "30.2412px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Want to WOW your friends and family when you get home? Or are you just someone, who like us, believes that to truly understand a people's culture you must first understand how they eat? Come and join us in the kitchen for a half-day of learning about traditional Balinese and Indonesian ingredients, their preparations, and uses in authentic local dishes. Includes a banquet lunch at the end of all your hard work. We recommend you take this in conjunction with a morning market tour but for those guests wishing to sleep in, you may take the cooking class on its own.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 1329,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "First 2 guests: 750,000 (each additional guest: Rp187,000)\nAdditional child under 12yrs: Rp140,000\n\nCombined Cooking Class and Morning Market Tour\nFirst 2 guests: Rp1,399,000 (each additional guest: Rp 275,000)\nAdditional child under 12yrs: Rp187,000",
+   "section_id": "comp-mcw2ytgg",
+   "y": 1598,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#AE095B"
+  },
+  {
+   "tag": "h2",
+   "text": "Morning Market Visits",
+   "section_id": "comp-mcw2ytgg",
+   "y": 1856,
+   "font": "assistant-v2",
+   "size": "30.2412px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Most of the world still do their daily shopping at local markets. Often smelly, dirty and crowded, a morning market is also a place where you will hear lots of laughter and chatting as the locals go about their morning shop. These social hubs are a chaotic and vibrant part of life in Bali.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 1909,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Join us for an early start at sunrise to visit Pasar Badung (Badung Market) where we will search out what is in season, best and fresh to cook with that day. Pasar Badung is a real local market for local people. It is highly likely you will be the only foreigners there and unlike at the markets at Ubud and Kuta, our guests are never hassled to buy things",
+   "section_id": "comp-mcw2ytgg",
+   "y": 2082,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "If you want to discover Real Bali, that makes sure you sign up for this tour.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 2226,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "A minimum of 2 adults is needed to run this tour. All children must be accompanied by an adult.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 2312,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "First 2 guests: 650,000 (each additional guest: Rp87,500)\nCombined Cooking Class and Morning Market Tour\n\nFirst 2 guests: Rp1,399,000 (each additional guest: Rp275,000)\nAdditional child under 12yrs: Rp187,000",
+   "section_id": "comp-mcw2ytgg",
+   "y": 2380,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#AE095B"
+  },
+  {
+   "tag": "h2",
+   "text": "Guided Motorcycle Tours",
+   "section_id": "comp-mcw2ytgg",
+   "y": 2609,
+   "font": "assistant-v2",
+   "size": "30.2412px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "An out of the ordinary experience, do not miss exploring the rice bowl of Bali by guided motorcycle tour. You will pillion on the back of a scooter with your own personal driver. Each driver is a local guide who has experience in riding on the back roads and know all the best-hidden gems to take you to. Many guests comment that touring through the rice paddies was the highlight of their time in Bali.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 2662,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Our most popular mountain tour is 25 km and lasts 2 to 3 hours",
+   "section_id": "comp-mcw2ytgg",
+   "y": 2864,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "and includes a stop at a waterfall for a swim so bring your swimmers.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 2893,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Helmets supplied. We recommend you wear closed-toe shoes.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 2921,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Interested in a longer ride, please just ask.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 2979,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Rp280,000",
+   "section_id": "comp-mcw2ytgg",
+   "y": 3018,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#AE095B"
+  },
+  {
+   "tag": "h2",
+   "text": "Jamu Making",
+   "section_id": "comp-mcw2ytgg",
+   "y": 3132,
+   "font": "assistant-v2",
+   "size": "30.2412px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Throughout Indonesia, you will see various forms of the traditional herbal medicine know was Jamu. There are literally hundreds of forms of Jamu, which can be made from a variety of rhizomes (ginger), seeds, leaves, fruits, barks, and flowers. You will make the turmeric, and ginger jamu we drink every morning at Bali Lush.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 3185,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Rp 140,000 1st guest, Rp 70,000 each additional guest",
+   "section_id": "comp-mcw2ytgg",
+   "y": 3339,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#AE095B"
+  },
+  {
+   "tag": "h2",
+   "text": "Make Your Own Offering",
+   "section_id": "comp-mcw2ytgg",
+   "y": 3453,
+   "font": "assistant-v2",
+   "size": "30.2412px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Anyone who has visited Bali before will be extremely familiar with the flower offerings with incense sticks that are seen around the island.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 3506,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Canang Sari (pronounce Cha-nang Sah-ree) is the name of these daily offerings that are placed at the entrances of every home and business in Bali as well as at the temples and even major road junctions.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 3592,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Learn what the different elements of the offerings represent and how to make your own gift to the gods under the guidance of our own experts!",
+   "section_id": "comp-mcw2ytgg",
+   "y": 3707,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "This is a beautiful activity for those who want to understand Balinese culture and also for kids!",
+   "section_id": "comp-mcw2ytgg",
+   "y": 3794,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "2hr Class: Rp200,000 for one guest / private class (each additional guest Rp100,000)",
+   "section_id": "comp-mcw2ytgg",
+   "y": 3861,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#AE095B"
+  },
+  {
+   "tag": "h2",
+   "text": "Visit a Local School",
+   "section_id": "comp-mcw2ytgg",
+   "y": 4004,
+   "font": "assistant-v2",
+   "size": "30.2412px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Ever wanted to know what it feels like to be a rock star?",
+   "section_id": "comp-mcw2ytgg",
+   "y": 4057,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Then just pay a visit to our local school, where throngs of school children will giggle and shriek at the foreigners visiting their school for an English language lesson, and to take a photo with them.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 4086,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "We don't charge anything for this, however, we ask that you bring with you something to donate to the school to assist the children in their studies:",
+   "section_id": "comp-mcw2ytgg",
+   "y": 4201,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Items that are useful and often in short supply include: pens, pencils, workbooks and beginners English language tools are always appreciated.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 4288,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "This is a wonderful way to support the Balinese community and give back to them during your stay here.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 4403,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Yoga & Yoga Shala",
+   "section_id": "comp-mcw2ytgg",
+   "y": 4585,
+   "font": "assistant-v2",
+   "size": "30.2412px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Join one of our local instructors, for a lesson in a traditional practice called Surya Yoga at a traditional grass thatched roof bale in our neighbouring village.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 4638,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "If you wish to practice yoga on your own rice terrace view, yoga shall is available for guests to use (unless we are running a retreat).",
+   "section_id": "comp-mcw2ytgg",
+   "y": 4753,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "If you would like to host a retreat at Bali Lush. Please check our Retreats page here.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 4839,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Yoga Classes are Rp462,000 per hour for private instruction or the price can be shared between up to 4 guests.",
+   "section_id": "comp-mcw2ytgg",
+   "y": 4907,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#AE095B"
+  }
+ ],
+ "note": "Blocks are in visual order (desktop 1440px). Header, footer and the site-wide promo lightbox are in ../shared.json. Blog comments (spam) intentionally excluded."
+}

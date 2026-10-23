@@ -1,0 +1,110 @@
+.h2 { font-size: var(--step-3); }
+
+.head {
+  background: var(--sand) url('/brand/javanese-motif.png') repeat;
+  background-size: 180px;
+  background-blend-mode: multiply;
+  margin-bottom: var(--space-l);
+}
+
+.headInner {
+  display: grid;
+  gap: var(--space-s);
+  padding-block: var(--space-xl);
+}
+
+@media (min-width: 900px) {
+  .headInner {
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      'crumbs crumbs'
+      'title book'
+      'facts book';
+    align-items: end;
+    column-gap: var(--space-2xl);
+  }
+  .crumbs { grid-area: crumbs; }
+  .title { grid-area: title; }
+  .facts { grid-area: facts; }
+  .book { grid-area: book; justify-items: end; text-align: right; }
+}
+
+.crumbs { font-size: var(--step--1); color: var(--ink-soft); }
+.crumbs a { font-weight: 700; }
+
+.title { font-size: var(--step-5); }
+
+.facts { display: flex; flex-wrap: wrap; gap: var(--space-l) var(--space-2xl); margin: 0; }
+.facts dt { font-size: var(--step--1); color: var(--ink-soft); }
+.facts dd { margin: 0; font-size: var(--step-1); font-weight: 700; }
+
+.book { display: grid; gap: var(--space-xs); justify-items: start; }
+.bookNote { font-size: var(--step--1); color: var(--ink-soft); max-width: 24rem; }
+
+/* ---------- Details ---------- */
+.details { display: grid; gap: var(--space-2xl); }
+
+@media (min-width: 960px) {
+  .details { grid-template-columns: 1.1fr 1fr; gap: clamp(2.5rem, 6vw, 6rem); }
+}
+
+.description { display: grid; gap: var(--space-m); align-content: start; }
+.description > p { margin: 0; color: var(--ink-soft); max-width: var(--max-text); }
+.description > p:first-of-type { font-family: var(--font-heading); font-size: var(--step-1); color: var(--ink); line-height: 1.55; }
+
+.bedsBox {
+  margin-top: var(--space-s);
+  padding: var(--space-l);
+  background: var(--sand);
+  border-left: 3px solid var(--green);
+}
+.boxTitle { font-family: var(--font-body); font-size: 1rem; font-weight: 700; margin-bottom: var(--space-xs); }
+.bedsBox ul { list-style: none; display: grid; gap: 0.3rem; }
+
+.amenities { display: grid; gap: var(--space-m); align-content: start; }
+.amenities ul { list-style: none; border-top: 1px solid var(--line); }
+.amenities li {
+  padding: 0.6rem 0 0.6rem 1.4rem;
+  border-bottom: 1px solid var(--line);
+  position: relative;
+}
+.amenities li::before {
+  content: '';
+  position: absolute;
+  left: 0.15rem;
+  top: 1.15rem;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background: var(--green);
+}
+
+/* ---------- Reviews ---------- */
+.reviewsHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-s) var(--space-l);
+  margin-bottom: var(--space-l);
+}
+
+.reviewGrid { list-style: none; columns: 1; column-gap: var(--space-m); }
+.reviewGrid > li { break-inside: avoid; margin-bottom: var(--space-m); }
+@media (min-width: 768px) { .reviewGrid { columns: 2; } }
+.reviewGrid { margin-bottom: calc(var(--space-m) * -1); }
+
+/* ---------- Other rooms ---------- */
+.others {
+  list-style: none;
+  display: grid;
+  gap: var(--space-l);
+  margin-top: var(--space-l);
+}
+@media (min-width: 640px) { .others { grid-template-columns: repeat(3, 1fr); } }
+
+.other { display: grid; gap: var(--space-2xs); text-decoration: none; }
+.other .frame { aspect-ratio: 3 / 2; margin-bottom: var(--space-xs); }
+.otherName { font-family: var(--font-heading); font-size: var(--step-2); font-weight: 600; }
+.other:hover .otherName { text-decoration: underline; text-decoration-color: var(--green); text-decoration-thickness: 2px; }
+.otherFacts { font-size: var(--step--1); color: var(--ink-soft); }

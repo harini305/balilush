@@ -1,0 +1,74 @@
+.h2 { font-size: var(--step-3); margin-bottom: var(--space-l); }
+
+.head {
+  display: grid;
+  gap: var(--space-xl);
+  padding-block: var(--space-xl) var(--space-m);
+}
+@media (min-width: 900px) {
+  .head { grid-template-columns: 1.2fr 0.8fr; align-items: center; gap: clamp(2rem, 6vw, 6rem); }
+}
+.headText { display: grid; gap: var(--space-l); justify-items: start; }
+.headImage { aspect-ratio: 16 / 9; max-height: 20rem; }
+
+/* ---------- Table (stacks into rows of cards on small screens) ---------- */
+.table { width: 100%; border-collapse: collapse; }
+
+.table thead th {
+  text-align: left;
+  font-size: var(--step--1);
+  font-weight: 700;
+  color: var(--ink-mute);
+  padding: 0 var(--space-m) var(--space-s);
+  border-bottom: 2px solid var(--ink);
+}
+
+.table tbody th, .table td {
+  text-align: left;
+  padding: var(--space-m);
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+  font-variant-numeric: tabular-nums;
+}
+
+.table tbody th { font-weight: 600; }
+
+.table tr[data-current] { background: var(--sand); }
+
+.dot {
+  display: inline-block;
+  width: 0.65rem;
+  height: 0.65rem;
+  margin-right: 0.6rem;
+  border-radius: 50%;
+  vertical-align: 0.05em;
+}
+tr[data-season='peak'] .dot { background: var(--ink); }
+tr[data-season='mid'] .dot { background: var(--green); }
+tr[data-season='low'] .dot { background: var(--lime); }
+tr[data-season='special'] .dot { background: var(--magenta); }
+
+.current {
+  display: inline-block;
+  margin-left: 0.6rem;
+  padding: 0.05rem 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  background: var(--green);
+  color: var(--ink);
+  border-radius: var(--radius);
+  vertical-align: 0.1em;
+}
+
+.tbc { color: var(--ink-mute); font-style: italic; }
+
+@media (max-width: 640px) {
+  .table thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .table, .table tbody, .table tr, .table th, .table td { display: block; }
+  .table tr { padding: var(--space-m) 0; border-bottom: 1px solid var(--line); }
+  .table tr[data-current] { padding-inline: var(--space-m); }
+  .table tbody th, .table td { padding: 0; border: 0; }
+  .table tbody th { margin-bottom: var(--space-xs); }
+  .table td[data-label] { display: flex; gap: var(--space-s); }
+  .table td[data-label]::before { content: attr(data-label); min-width: 3rem; color: var(--ink-mute); font-size: var(--step--1); padding-top: 0.15em; }
+}

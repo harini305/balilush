@@ -1,0 +1,186 @@
+{
+ "note": "Verbatim from room detail pages (Wix dynamic pages, collection \"rooms\"). Order as in site listing: Butterfly, Dragonfly, Frog, Duck. No prices on site.",
+ "rooms": [
+  {
+   "name": "Butterfly Room",
+   "route": "/rooms/butterfly-room",
+   "suitable_for": "Couples",
+   "sleeps": "2-3",
+   "description": [
+    "Butterfly room is a deluxe king room and is one of two rooms that that make up Kambing house; an almost 100 year old teak ‘Limasan' family house from central Java that has been divided into 2 guest rooms. Butterfly rooms shares an entrance with Dragonfly room and has private use of half of the oversized verandah. Kambing house is located closest to the rice terraces and river and is thus furthest from the restaurant and swimming pool.",
+    "It is the coolest of the rooms, the last room that needs the aircon switched on, and is also the room with the least natural light. Perfect for guests who like to sleep in. The bathroom has the most spectacular view of all the bathrooms at Bali Lush; a picture window looks directly out across the rice terraces making for a very special shower experience.",
+    "The room is most suitable for solo travellers, couples, or a family of 3 and comes standard as Super King four poster canopy bed 200 x 200 cm with mosquito net and 1 single bed 90 cm x 180 cm. Families or groups of friends wishing to have seperate bedrooms adjoining each other should book both Dragonfly and Butterfly rooms together.",
+    "N.B the king beds in both Dragonfly and Butterfly rooms can not be split into twin singles like Frog Bungalow or Duck Cottage."
+   ],
+   "bed_configurations": [],
+   "amenities": [
+    "Air conditioning and twin ceiling fans",
+    "Block out curtains",
+    "Bed side lamps and individual reading lights",
+    "International charging sockets (no need to pack those international adapters)",
+    "Sateen cotton sheets and covers",
+    "Summer weight duvet",
+    "2 standard and 2 super king luxury hotel pillows for the King bed and 1 standard and 1 super",
+    "King pillow for the single bed if needed.",
+    "Guest soaps by Bali Asli",
+    "1 pool towel, 1 bath towel and face washer per guest",
+    "Flat screen LCD TV",
+    "DVD player",
+    "Selection of DVD’s and books",
+    "Mini bar",
+    "In-room lap top safe",
+    "Tea and coffee making facilities",
+    "We are one of the few properties where it is safe to drink the water direct from our taps. Bali Lush has a private well and the water is sourced on site through 60M of volcanic rock."
+   ],
+   "reviews_block_raw": [
+    "My husband and I came here for our honeymoon and absolutely loved it! We were blown away with how beautiful the area was, and loved the tours around the area. Very relaxing place and highly recommend!",
+    "The Bali in your dream. Serene and peaceful. Beautifully decorated Java house and plantation. I can't get tired of the view ever.  Attentive staff and warm hosts. Your hospitality and life wisdom have really inspired me. I cant love this place more. Food was simple but delicious. It changed my view towards Bali. Thank you so much!!",
+    "Danielle R",
+    "CYH",
+    "It only took one night for us to fall in love with Bali Lush! Set against a breathtaking backdrop of lush, tiered rice fields, this Javanese-inspired boutique retreat felt welcoming from the moment we arrived. The food is some of the best we had on our trip, thanks to the care and menu planning by host/co-owner Camron Henry. She handpicks tried-and-true recipes that showcase Bali's amazing offerings, plus, her kitchen bakes homemade bread that's to die for. What's more, I celebrated by birthday there and Camron's staff surprised me with the most delectable chocolate cake! Ok - one more thing: I also had the best in-room massage there. Seriously. Camron, her husband David, their sweet dogs and wonderful staff make Bali Lush a place that we can't wait to return to next time!",
+    "The place to stay if to want to have a good rest in the nature. Good cooking (important for French people) and good advise to visit interesting areas. All the team is very friendly.No négative remark can be said about this place. We will have to come back",
+    "Ji-l B",
+    "Lisa A"
+   ],
+   "og_image": "https://static.wixstatic.com/media/046d7e_105c97c29caa4222b031dd2bccfcad33~mv2.jpg/v1/fill/w_800,h_531,al_c,q_85/DSC_0748_resize.jpg"
+  },
+  {
+   "name": "Dragonfly Room",
+   "route": "/rooms/dragonfly-room",
+   "suitable_for": "Families",
+   "sleeps": "Up to 5",
+   "description": [
+    "Dragonfly Room is a deluxe family room and is one of two rooms that make up Kambing house; an almost 100-year-old teak ‘Limasan' family house from central Java that has been divided into 2 guest rooms. Dragonfly room shares an entrance with Butterfly room and has a dining table and 5 chairs set up on its half of the oversized verandah. Kambing house is located closest to the rice terraces and river and is thus furthest from the restaurant and swimming pool.",
+    "Dragonfly Room is our favorite room at Bali Lush due to the large floor to ceiling windows that have been placed on the side facing our own private Rice Terrace.",
+    "The room is most suitable for families up to 5 and couples wanting to spread out a little more and comes standard as Super King four poster canopy bed 200 x 200 cm with mosquito net; 1 single bed/settee 90 cm x 180 cm and 1 set bunk beds 100 x 200 cm. Families or groups of friends wishing to have separate bedrooms adjoining each other should book both Dragonfly and Butterfly rooms together.",
+    "N.B the king beds in both Dragonfly and Butterfly rooms cannot be split into twin singles like Frog Bungalow or Duck Cottage."
+   ],
+   "bed_configurations": [],
+   "amenities": [
+    "Air conditioning and twin ceiling fans",
+    "Block out curtains",
+    "Bedside lamps and individual reading lights",
+    "International charging sockets (no need to pack those international adapters)",
+    "Sateen cotton sheets and covers",
+    "Summer weight duvet",
+    "2 standard and 2 super king luxury hotel pillows for the King bed and 1 standard and 1 super",
+    "King pillow for every single bed as needed.",
+    "Guest soaps by Bali Asli",
+    "1 pool towel, 1 bath towel and face washer per guest",
+    "Flat screen LCD TV",
+    "DVD player",
+    "Selection of DVD’s and books",
+    "Minibar",
+    "In-room laptop safe",
+    "Tea and coffee making facilities",
+    "We are one of the few properties where it is safe to drink the water directly from our taps. Bali Lush has a private well and the water is sourced on site through 60M of volcanic rock."
+   ],
+   "reviews_block_raw": [
+    "My family & I have been traveling around Bali & Indonesia for almost two decades.  Bali Lush is truly unique.  Set within breathtaking rice fields, the journey through villages, jungle & rice fields is what makes Bali a special destination.  We loved our cottage, totally authentic; all 5 of us were super comfortable and actually slept longer than anticipated.",
+    "I fell deep in love with Bali Lush - it's a hidden place in the junglel of Tabanan including an incredible beautiful surrounding and nature. If you want to connect to yourself and the nature while enjoying healthy, lovely and really yummy food - you need to go here.  The owners David and Camron are awesome people who can tell you lot's of stories and showing you the nice places around Bali Lush. The rooms are equipped very well and designed so lovely! So just go and enjoy!",
+    "The restaurant was accommodating and meals were prompt and tasty.",
+    "Lea vR",
+    "Gracious hosts Cameron & David are thrilled to talk with guests and they even arranged a motorbike tour through remote villages & rice fields, past temples & waterfalls.  We never did this before so it was quite a treat.  My only complaint is, nothing to do with Bali Lush, we should have stayed longer!",
+    "Danny C",
+    "Guys, if you are thinking to stay at this beautiful place or not, don’t think just book it! My friend Anna and I spent here the most wonderful, mind cleaning day ever. Ultimate view, great talks with hosts David and Cameron, calming sounds of nature and pure relaxing vibe will recharge your battery.",
+    "The experience of visiting this little pearl of a hotel is beyond. The owners David and Cameron and  their staff were amazing. Friendly, funny and extraordinary helpful.  My 17 year old son had childhood dream of picking coconuts, which they immediately made come true. My 18 year old daughter wished to visit local dog rescue, which David drove her to. And … by the way, Cameron, is herself deeply into rescuing dogs, cats in village by having vets coming every 3-6 months so villagers pets get medicated etc.  Of the many places we stayed (mostly 5 star hotels) in our 4 week journey on Bali, Bali Lush made us the most happy, relaxed and delighted. We give it 10 out of 5!!!",
+    "I’m grateful for the warm welcome. So is Anna. Here’s her part of the review:",
+    "Had the best time at this magic hotspot! If so happens that you lose your cosmic internet, this place will bring it back - at least that’s what happened to me. David and Cameron look like two mere mortals, but don’t be tricked - they’re true wizards. This place is designed to help look within: the Milky Way staring down at you in the warm pool, adorable animals coming to check on you, sounds of nature in the night, the rice field view at the sunrise and the warm summer shower, delicious breakfast. Altogether, a unique experience that makes you feel reborn with just the power of nature and the help of the hosts. Def a place to visit in Bali and my personal favorite place on the planet❤️",
+    "Sofie",
+    "Lena K"
+   ],
+   "og_image": "https://static.wixstatic.com/media/046d7e_97785446db154f9282ff3c9fc82f9fe8~mv2.jpg/v1/fill/w_800,h_531,al_c,q_85/DSC_0823_resize.jpg"
+  },
+  {
+   "name": "Frog Bungalow",
+   "route": "/rooms/frog-bungalow",
+   "suitable_for": "Couples",
+   "sleeps": "2-3",
+   "description": [
+    "Frog Bungalow was our very first guest accommodation and is still our most popular. Small and quaint, the building is a stand-alone antique teak rice barn converted to be used as a single room guest house. Two large wooden panels have been replaced with floor length windows to allow lots of natural light.",
+    "It has an elevated garden terrace which is planted with roses, gardenias, and tuberose and has gorgeous views of the verdant rice terrace directly opposite. Shower under the stars in your open-air bathroom.",
+    "The bathroom has a partial roof area covering the toilet, towel rail, and wash basin so you won’t get wet if it rains. But when it does rain we highly recommend a hot shower; a truly unique experience.",
+    "The room is most suitable for couples, 2 friends or a single traveller and can be configured as a King size bed 180 x 200 cm with canopy mosquito net or 2 single beds 90 x 200 cm (no mosquito net)"
+   ],
+   "bed_configurations": [],
+   "amenities": [
+    "Air conditioning and ceiling fan",
+    "Block out curtains",
+    "Bed side lamps and individual reading lights",
+    "International charging sockets (no need to pack those international adapters)",
+    "Sateen cotton sheets and covers",
+    "Summer weight duvet",
+    "2 standard and 2 super king luxury hotel pillows",
+    "Guest soaps by Bali Asli",
+    "1 pool towel, 1 bath towel and face washer per guest",
+    "Flat screen LCD TV",
+    "DVD player",
+    "Selection of DVD’s and books",
+    "Mini bar",
+    "In-room lap top safe",
+    "Tea and coffee making facilities",
+    "We are one of the few properties where it is safe to drink the water direct from our taps. Bali Lush has a private well and the water is sourced on site through 60M of volcanic rock."
+   ],
+   "reviews_block_raw": [
+    "We stayed four nights at Bali Lush in the frog cottage. Bali Lush is in Tabanan about a one and a half hour to two drive from the airport or an hour from Canggu. Bali Lush is a collection of very old Javanese gladek cottages spread across a hillside with views across the valley to the rice fields. The view is simply breathtaking, it changes colour and texture throughout the day and you can watch the farmers working in the fields. Our room had everything you need, aircon, fan, good wifi, a hot shower with great water pressure, DVD, books, nothing else wanted. One very unique feature at Lush is that you can drink from the tap. The spring water comes through 60 metres of rock and is crystal clear and it's the only place in Bali I've heard where this is possible. Because the room is an old timber house there's lots of geckos, big and small, bugs and the odd bug. Of they're completely harmless but if you are concerned then you should know this. The village also has a few dogs who like to bark and carry on when you walk past. I'm not concerned by them but others might.",
+    "Simply the best !!! Luxury accomodation in the middle of \"Real Bali\". Lovely hosts, restaurant on site and all kinds of activities offered. Had a great time and will definitely be back. Real gem of Bali.",
+    "Marcus M",
+    "The food is very good, a small menu that changes daily and the staff are helpful and very friendly. Nearly everything is grown on site including rice, corn, vegetables, pineapple,  herbs and spices including some very tasty and hot chilli!",
+    "The hosts David and Cameron will point you to some great walks and interesting places  in the area. We went to the nearby Sing Sing Angin waterfall and had a swim which was a pleasure! Lush has a very nice pool and a yoga shala. Lush is on a hillside so there's a good number of stairs which might be problematic if you're not mobile.",
+    "Overall I really enjoyed the four days at Lush, it's a place where you can see rural Bali and simply relax.",
+    "Colin D",
+    "We really enjoyed our stay at Bali lush. Earlier reviews summed it up well. The only tip I will give is that if you are a couple book nice and early and try for the frog bungalow. We were initially allocated the dragon fly bungalow but found the 130 steps from bungalow to the restaurant too challenging. Will certainly recommend this charming out of the way place to stay.",
+    "Lynette E"
+   ],
+   "og_image": "https://static.wixstatic.com/media/046d7e_fb131fb8d63a48f480c946fbd2b14b8b~mv2.jpg/v1/fill/w_800,h_531,al_c,q_85/DSC_0479_resize.jpg"
+  },
+  {
+   "name": "Duck Cottage",
+   "route": "/rooms/duck-cottage",
+   "suitable_for": "Families",
+   "sleeps": "Up to 5",
+   "description": [
+    "Duck Cottage is stand-alone family bungalow. Our largest guest room, the interior space is a single oversized open plan living space and bedroom with private open air bathroom.",
+    "Duck cottage has its own private entrance and balcony. Clove trees line the balcony - when in the season the sent of clove fills the room.",
+    "Suitable for families up to 5, a group of up to 4 friends or two couples happy to share the same bedroom, the room can be configured as:"
+   ],
+   "bed_configurations": [
+    "2 Super King beds 200 x 200 cm",
+    "1 Super King 200 x 200 cm and 2 single beds 100 x 200 cm",
+    "4 single beds 100 x 200 cm",
+    "A day bed can be converted into a 5th guest bed for an extra child."
+   ],
+   "amenities": [
+    "Air conditioning and twin ceiling fans.",
+    "Block out curtains.",
+    "Bedside lamps and individual reading lights.",
+    "International charging sockets (no need to pack those international adapters).",
+    "Sateen cotton sheets and covers.",
+    "Summer weight duvet.",
+    "2 standard and 2 super king luxury hotel pillows for the King bed and 1 standard and 1 super.",
+    "King pillow for every single bed as needed.",
+    "Guest soaps by Bali Asli.",
+    "1 pool towel, 1 bath towel and face washer per guest.",
+    "Flat screen LCD TV.",
+    "DVD player.",
+    "Selection of DVD’s and books.",
+    "Minibar.",
+    "In-room laptop safe.",
+    "Tea and coffee making facilities.",
+    "We are one of the few properties where it is safe to drink the water directly from our taps.",
+    "Bali Lush has a private well and the water is sourced on site through 60M of volcanic rock."
+   ],
+   "reviews_block_raw": [
+    "My husband and I had 3 wonderful nights staying in the Duck / Bebek room and loved our time. Breakfast is fantastic with all food cooked freshly to order. I highly recommended the poached eggs on toast. Perfectly cooked and delicious. Drinking water provided at each meal free of charge and if you need another cup of coffee at breakfast the staff was happy to make. Rooms spacious and clean and great water pressure and plenty of hot, hot water! You are also able to drink directly from the tap as the rooms have natural spring water which is delicious and safe to drink. The garden is a delight with so many fruit trees.  They even have vanilla vines and cocoa trees! The mattress is comfortable with a range of great pillows for a restful nights sleep. The sound of the river ensures that you are rested and refreshed. Dinner menu is small but perfect and menu changes daily. Pool and yoga space clean and inviting. We wish we had been able to stay longer.",
+    "A very unique Hotel. Indescribable beauty. Wood carved Teak bungalows, each with stunning views of lush vegetation and terraced rice fields. A romantic heart shaped pool. And a lovely onsite restaurant, with local staff that make the best Chai Latte you have ever tasted!!!",
+    "Jennifer G",
+    "Angel House Ubud",
+    "Absolutely outstanding! This is one of the very special places to stay on the island of Bali . Beautifully designed in a eco friendly way with much regard and respect for the local community. You can watch the farmers lovingly caring for their rice fields from your balcony! The owners clearly care for and work with the local community and integrate sustainable tourism into their business. The food is healthy, tasty and mostly from the local fields. Komang is a great cook and the staff very friendly and helpful. The surrounding countryside is beautiful and many things to do in the area. It’s a photographers paradise. I think Bali lush is a great example of cultural tourism respecting the land , the local communities and culture. We need more of this . Also , the rooms are great and very comfortable beds, peaceful, quiet nights , you wake to the sounds of birds in the morning and it’s cooler than other parts of Bali . Perfect temperature.",
+    "We had the best time at Bali lush  The perfect escape! Staff were beautiful! Food was the best we have had in Bali. Rooms stunning! Favourite place in Bali!  Beautiful village life with kind loving people.  Off the beaten track. A unique Bali experience.",
+    "Jordana H",
+    "David Metcalf"
+   ],
+   "og_image": "https://static.wixstatic.com/media/046d7e_23faaa7d5e24470e8e7949f73b04a159~mv2.jpg/v1/fill/w_800,h_531,al_c,q_85/DSC_0654_resize.jpg"
+  }
+ ]
+}

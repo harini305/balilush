@@ -1,0 +1,507 @@
+{
+ "route": "/rooms/frog-bungalow",
+ "url": "https://www.balilush.com/rooms/frog-bungalow",
+ "title": "Frog Bungalow | Bali Lush",
+ "meta_description": null,
+ "og": {
+  "og:title": "Frog Bungalow | Bali Lush",
+  "og:image": "https://static.wixstatic.com/media/046d7e_fb131fb8d63a48f480c946fbd2b14b8b~mv2.jpg/v1/fill/w_800,h_531,al_c,q_85/DSC_0479_resize.jpg",
+  "og:image:width": "800",
+  "og:image:height": "531",
+  "og:url": "https://www.balilush.com/rooms/frog-bungalow",
+  "og:site_name": "Bali Lush",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Frog Bungalow | Bali Lush",
+  "twitter:image": "https://static.wixstatic.com/media/046d7e_fb131fb8d63a48f480c946fbd2b14b8b~mv2.jpg/v1/fill/w_800,h_531,al_c,q_85/DSC_0479_resize.jpg"
+ },
+ "canonical": [
+  "https://www.balilush.com/rooms/frog-bungalow"
+ ],
+ "sections_in_order": [
+  {
+   "section_id": "comp-maraff1e",
+   "y": 0,
+   "height": 388,
+   "text_preview": "Suitable for Couples Sleeps 2-3 Book Your Stay Frog Bungalow"
+  },
+  {
+   "section_id": "comp-mfwne6qz",
+   "y": 388,
+   "height": 1273,
+   "text_preview": ""
+  },
+  {
+   "section_id": "comp-mfwniwpf",
+   "y": 1660,
+   "height": 771,
+   "text_preview": "Frog Bungalow was our very first guest accommodation and is still our most popular. Small and quaint, the building is a stand-alone antique teak rice barn conve"
+  },
+  {
+   "section_id": "comp-mf6wyo49",
+   "y": 2431,
+   "height": 1237,
+   "text_preview": "Reviews from This Room... > View All Testimonials We stayed four nights at Bali Lush in the frog cottage. Bali Lush is in Tabanan about a one and a half hour to"
+  },
+  {
+   "section_id": "comp-mf6ws4dh",
+   "y": 3669,
+   "height": 441,
+   "text_preview": "Explore Other Rooms Butterfly Room Sleeps 2-3 Dragonfly Room Sleeps Up to 5 Duck Cottage Sleeps Up to 5"
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "h2",
+   "text": "Frog Bungalow",
+   "section_id": "comp-maraff1e",
+   "y": 252,
+   "font": "dancingscript-regular",
+   "size": "55px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "a",
+   "text": "Book Your Stay",
+   "section_id": "comp-maraff1e",
+   "y": 258,
+   "font": "madefor-text",
+   "size": "18.2134px",
+   "weight": "400",
+   "color": "#FFFFFF",
+   "href": "https://hotels.cloudbeds.com/en/reservation/tLFmXv?currency=idr"
+  },
+  {
+   "tag": "p",
+   "text": "Suitable for",
+   "section_id": "comp-maraff1e",
+   "y": 260,
+   "font": "assistant-v2",
+   "size": "20.25px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Sleeps",
+   "section_id": "comp-maraff1e",
+   "y": 261,
+   "font": "assistant-v2",
+   "size": "20.25px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Couples",
+   "section_id": "comp-maraff1e",
+   "y": 287,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "2-3",
+   "section_id": "comp-maraff1e",
+   "y": 289,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Frog Bungalow was our very first guest accommodation and is still our most popular. Small and quaint, the building is a stand-alone antique teak rice barn converted to be used as a single room guest house. Two large wooden panels have been replaced with floor length windows to allow lots of natural light.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1732,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Amenities:",
+   "section_id": "comp-mfwniwpf",
+   "y": 1732,
+   "font": "assistant-v2",
+   "size": "29.3976px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Air conditioning and ceiling fan",
+   "section_id": "comp-mfwniwpf",
+   "y": 1789,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Block out curtains",
+   "section_id": "comp-mfwniwpf",
+   "y": 1814,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Bed side lamps and individual reading lights",
+   "section_id": "comp-mfwniwpf",
+   "y": 1840,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "It has an elevated garden terrace which is planted with roses, gardenias, and tuberose and has gorgeous views of the verdant rice terrace directly opposite. Shower under the stars in your open-air bathroom.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1860,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "International charging sockets (no need to pack those international adapters)",
+   "section_id": "comp-mfwniwpf",
+   "y": 1866,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Sateen cotton sheets and covers",
+   "section_id": "comp-mfwniwpf",
+   "y": 1891,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Summer weight duvet",
+   "section_id": "comp-mfwniwpf",
+   "y": 1917,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "2 standard and 2 super king luxury hotel pillows",
+   "section_id": "comp-mfwniwpf",
+   "y": 1942,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "The bathroom has a partial roof area covering the toilet, towel rail, and wash basin so you won’t get wet if it rains. But when it does rain we highly recommend a hot shower; a truly unique experience.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1963,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Guest soaps by Bali Asli",
+   "section_id": "comp-mfwniwpf",
+   "y": 1968,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "1 pool towel, 1 bath towel and face washer per guest",
+   "section_id": "comp-mfwniwpf",
+   "y": 1993,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Flat screen LCD TV",
+   "section_id": "comp-mfwniwpf",
+   "y": 2019,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "DVD player",
+   "section_id": "comp-mfwniwpf",
+   "y": 2045,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "The room is most suitable for couples, 2 friends or a single traveller and can be configured as a King size bed 180 x 200 cm with canopy mosquito net or 2 single beds 90 x 200 cm (no mosquito net)",
+   "section_id": "comp-mfwniwpf",
+   "y": 2065,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Selection of DVD’s and books",
+   "section_id": "comp-mfwniwpf",
+   "y": 2070,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Mini bar",
+   "section_id": "comp-mfwniwpf",
+   "y": 2096,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "In-room lap top safe",
+   "section_id": "comp-mfwniwpf",
+   "y": 2121,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Tea and coffee making facilities",
+   "section_id": "comp-mfwniwpf",
+   "y": 2147,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "We are one of the few properties where it is safe to drink the water direct from our taps. Bali Lush has a private well and the water is sourced on site through 60M of volcanic rock.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2173,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Reviews from This Room...",
+   "section_id": "comp-mf6wyo49",
+   "y": 2506,
+   "font": "assistant-v2",
+   "size": "31.5537px",
+   "weight": "600",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "> View All Testimonials",
+   "section_id": "comp-mf6wyo49",
+   "y": 2512,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#AE095B"
+  },
+  {
+   "tag": "p",
+   "text": "We stayed four nights at Bali Lush in the frog cottage. Bali Lush is in Tabanan about a one and a half hour to two drive from the airport or an hour from Canggu. Bali Lush is a collection of very old Javanese gladek cottages spread across a hillside with views across the valley to the rice fields. The view is simply breathtaking, it changes colour and texture throughout the day and you can watch the farmers working in the fields. Our room had everything you need, aircon, fan, good wifi, a hot shower with great water pressure, DVD, books, nothing else wanted. One very unique feature at Lush is that you can drink from the tap. The spring water comes through 60 metres of rock and is crystal clear and it's the only place in Bali I've heard where this is possible. Because the room is an old timber house there's lots of geckos, big and small, bugs and the odd bug. Of they're completely harmless but if you are concerned then you should know this. The village also has a few dogs who like to bark and carry on when you walk past. I'm not concerned by them but others might.",
+   "section_id": "comp-mf6wyo49",
+   "y": 2600,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Simply the best !!! Luxury accomodation in the middle of \"Real Bali\". Lovely hosts, restaurant on site and all kinds of activities offered. Had a great time and will definitely be back. Real gem of Bali.",
+   "section_id": "comp-mf6wyo49",
+   "y": 2600,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Marcus M",
+   "section_id": "comp-mf6wyo49",
+   "y": 2693,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "The food is very good, a small menu that changes daily and the staff are helpful and very friendly. Nearly everything is grown on site including rice, corn, vegetables, pineapple,  herbs and spices including some very tasty and hot chilli!",
+   "section_id": "comp-mf6wyo49",
+   "y": 2984,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "The hosts David and Cameron will point you to some great walks and interesting places  in the area. We went to the nearby Sing Sing Angin waterfall and had a swim which was a pleasure! Lush has a very nice pool and a yoga shala. Lush is on a hillside so there's a good number of stairs which might be problematic if you're not mobile.",
+   "section_id": "comp-mf6wyo49",
+   "y": 3112,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Overall I really enjoyed the four days at Lush, it's a place where you can see rural Bali and simply relax.",
+   "section_id": "comp-mf6wyo49",
+   "y": 3266,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Colin D",
+   "section_id": "comp-mf6wyo49",
+   "y": 3333,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "We really enjoyed our stay at Bali lush. Earlier reviews summed it up well. The only tip I will give is that if you are a couple book nice and early and try for the frog bungalow. We were initially allocated the dragon fly bungalow but found the 130 steps from bungalow to the restaurant too challenging. Will certainly recommend this charming out of the way place to stay.",
+   "section_id": "comp-mf6wyo49",
+   "y": 3430,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Lynette E",
+   "section_id": "comp-mf6wyo49",
+   "y": 3574,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Explore Other Rooms",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3698,
+   "font": "assistant-v2",
+   "size": "31.5537px",
+   "weight": "600",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Butterfly Room",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3780,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Dragonfly Room",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3780,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Duck Cottage",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3780,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Sleeps",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3972,
+   "font": "madefor-text-extrabold",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "2-3",
+   "section_id": "comp-mf6ws4dh",
+   "y": 4000,
+   "font": "wix-madefor-text-v2",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Up to 5",
+   "section_id": "comp-mf6ws4dh",
+   "y": 4000,
+   "font": "wix-madefor-text-v2",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  }
+ ],
+ "note": "Blocks are in visual order (desktop 1440px). Header, footer and the site-wide promo lightbox are in ../shared.json. Blog comments (spam) intentionally excluded."
+}

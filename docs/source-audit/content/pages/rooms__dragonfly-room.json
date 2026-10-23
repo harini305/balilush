@@ -1,0 +1,547 @@
+{
+ "route": "/rooms/dragonfly-room",
+ "url": "https://www.balilush.com/rooms/dragonfly-room",
+ "title": "Dragonfly Room | Bali Lush",
+ "meta_description": null,
+ "og": {
+  "og:title": "Dragonfly Room | Bali Lush",
+  "og:image": "https://static.wixstatic.com/media/046d7e_97785446db154f9282ff3c9fc82f9fe8~mv2.jpg/v1/fill/w_800,h_531,al_c,q_85/DSC_0823_resize.jpg",
+  "og:image:width": "800",
+  "og:image:height": "531",
+  "og:url": "https://www.balilush.com/rooms/dragonfly-room",
+  "og:site_name": "Bali Lush",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Dragonfly Room | Bali Lush",
+  "twitter:image": "https://static.wixstatic.com/media/046d7e_97785446db154f9282ff3c9fc82f9fe8~mv2.jpg/v1/fill/w_800,h_531,al_c,q_85/DSC_0823_resize.jpg"
+ },
+ "canonical": [
+  "https://www.balilush.com/rooms/dragonfly-room"
+ ],
+ "sections_in_order": [
+  {
+   "section_id": "comp-maraff1e",
+   "y": 0,
+   "height": 388,
+   "text_preview": "Suitable for Families Sleeps Up to 5 Book Your Stay Dragonfly Room"
+  },
+  {
+   "section_id": "comp-mfwne6qz",
+   "y": 388,
+   "height": 1273,
+   "text_preview": ""
+  },
+  {
+   "section_id": "comp-mfwniwpf",
+   "y": 1660,
+   "height": 771,
+   "text_preview": "Dragonfly Room is a deluxe family room and is one of two rooms that make up Kambing house; an almost 100-year-old teak ‘Limasan' family house from central Java "
+  },
+  {
+   "section_id": "comp-mf6wyo49",
+   "y": 2431,
+   "height": 1109,
+   "text_preview": "Reviews from This Room... > View All Testimonials My family & I have been traveling around Bali & Indonesia for almost two decades. Bali Lush is truly unique. S"
+  },
+  {
+   "section_id": "comp-mf6ws4dh",
+   "y": 3541,
+   "height": 441,
+   "text_preview": "Explore Other Rooms Butterfly Room Sleeps 2-3 Frog Bungalow Sleeps 2-3 Duck Cottage Sleeps Up to 5"
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "h2",
+   "text": "Dragonfly Room",
+   "section_id": "comp-maraff1e",
+   "y": 252,
+   "font": "dancingscript-regular",
+   "size": "55px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "a",
+   "text": "Book Your Stay",
+   "section_id": "comp-maraff1e",
+   "y": 258,
+   "font": "madefor-text",
+   "size": "18.2134px",
+   "weight": "400",
+   "color": "#FFFFFF",
+   "href": "https://hotels.cloudbeds.com/en/reservation/tLFmXv?currency=idr"
+  },
+  {
+   "tag": "p",
+   "text": "Suitable for",
+   "section_id": "comp-maraff1e",
+   "y": 260,
+   "font": "assistant-v2",
+   "size": "20.25px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Sleeps",
+   "section_id": "comp-maraff1e",
+   "y": 261,
+   "font": "assistant-v2",
+   "size": "20.25px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Families",
+   "section_id": "comp-maraff1e",
+   "y": 287,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Up to 5",
+   "section_id": "comp-maraff1e",
+   "y": 289,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Dragonfly Room is a deluxe family room and is one of two rooms that make up Kambing house; an almost 100-year-old teak ‘Limasan' family house from central Java that has been divided into 2 guest rooms. Dragonfly room shares an entrance with Butterfly room and has a dining table and 5 chairs set up on its half of the oversized verandah. Kambing house is located closest to the rice terraces and river and is thus furthest from the restaurant and swimming pool.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1732,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Amenities:",
+   "section_id": "comp-mfwniwpf",
+   "y": 1732,
+   "font": "assistant-v2",
+   "size": "29.3976px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Air conditioning and twin ceiling fans",
+   "section_id": "comp-mfwniwpf",
+   "y": 1789,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Block out curtains",
+   "section_id": "comp-mfwniwpf",
+   "y": 1814,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Bedside lamps and individual reading lights",
+   "section_id": "comp-mfwniwpf",
+   "y": 1840,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "International charging sockets (no need to pack those international adapters)",
+   "section_id": "comp-mfwniwpf",
+   "y": 1866,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Sateen cotton sheets and covers",
+   "section_id": "comp-mfwniwpf",
+   "y": 1891,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Dragonfly Room is our favorite room at Bali Lush due to the large floor to ceiling windows that have been placed on the side facing our own private Rice Terrace.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1911,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Summer weight duvet",
+   "section_id": "comp-mfwniwpf",
+   "y": 1917,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "2 standard and 2 super king luxury hotel pillows for the King bed and 1 standard and 1 super",
+   "section_id": "comp-mfwniwpf",
+   "y": 1942,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "The room is most suitable for families up to 5 and couples wanting to spread out a little more and comes standard as Super King four poster canopy bed 200 x 200 cm with mosquito net; 1 single bed/settee 90 cm x 180 cm and 1 set bunk beds 100 x 200 cm. Families or groups of friends wishing to have separate bedrooms adjoining each other should book both Dragonfly and Butterfly rooms together.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1988,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "King pillow for every single bed as needed.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1993,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Guest soaps by Bali Asli",
+   "section_id": "comp-mfwniwpf",
+   "y": 2019,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "1 pool towel, 1 bath towel and face washer per guest",
+   "section_id": "comp-mfwniwpf",
+   "y": 2045,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Flat screen LCD TV",
+   "section_id": "comp-mfwniwpf",
+   "y": 2070,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "DVD player",
+   "section_id": "comp-mfwniwpf",
+   "y": 2096,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Selection of DVD’s and books",
+   "section_id": "comp-mfwniwpf",
+   "y": 2121,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "N.B the king beds in both Dragonfly and Butterfly rooms cannot be split into twin singles like Frog Bungalow or Duck Cottage.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2142,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Minibar",
+   "section_id": "comp-mfwniwpf",
+   "y": 2147,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "In-room laptop safe",
+   "section_id": "comp-mfwniwpf",
+   "y": 2173,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Tea and coffee making facilities",
+   "section_id": "comp-mfwniwpf",
+   "y": 2198,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "We are one of the few properties where it is safe to drink the water directly from our taps. Bali Lush has a private well and the water is sourced on site through 60M of volcanic rock.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2224,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Reviews from This Room...",
+   "section_id": "comp-mf6wyo49",
+   "y": 2506,
+   "font": "assistant-v2",
+   "size": "31.5537px",
+   "weight": "600",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "> View All Testimonials",
+   "section_id": "comp-mf6wyo49",
+   "y": 2512,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#AE095B"
+  },
+  {
+   "tag": "p",
+   "text": "My family & I have been traveling around Bali & Indonesia for almost two decades.  Bali Lush is truly unique.  Set within breathtaking rice fields, the journey through villages, jungle & rice fields is what makes Bali a special destination.  We loved our cottage, totally authentic; all 5 of us were super comfortable and actually slept longer than anticipated.",
+   "section_id": "comp-mf6wyo49",
+   "y": 2600,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "I fell deep in love with Bali Lush - it's a hidden place in the junglel of Tabanan including an incredible beautiful surrounding and nature. If you want to connect to yourself and the nature while enjoying healthy, lovely and really yummy food - you need to go here.  The owners David and Camron are awesome people who can tell you lot's of stories and showing you the nice places around Bali Lush. The rooms are equipped very well and designed so lovely! So just go and enjoy!",
+   "section_id": "comp-mf6wyo49",
+   "y": 2600,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "The restaurant was accommodating and meals were prompt and tasty.",
+   "section_id": "comp-mf6wyo49",
+   "y": 2754,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Lea vR",
+   "section_id": "comp-mf6wyo49",
+   "y": 2770,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Gracious hosts Cameron & David are thrilled to talk with guests and they even arranged a motorbike tour through remote villages & rice fields, past temples & waterfalls.  We never did this before so it was quite a treat.  My only complaint is, nothing to do with Bali Lush, we should have stayed longer!",
+   "section_id": "comp-mf6wyo49",
+   "y": 2805,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Danny C",
+   "section_id": "comp-mf6wyo49",
+   "y": 2923,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Guys, if you are thinking to stay at this beautiful place or not, don’t think just book it! My friend Anna and I spent here the most wonderful, mind cleaning day ever. Ultimate view, great talks with hosts David and Cameron, calming sounds of nature and pure relaxing vibe will recharge your battery.",
+   "section_id": "comp-mf6wyo49",
+   "y": 3021,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "The experience of visiting this little pearl of a hotel is beyond. The owners David and Cameron and  their staff were amazing. Friendly, funny and extraordinary helpful.  My 17 year old son had childhood dream of picking coconuts, which they immediately made come true. My 18 year old daughter wished to visit local dog rescue, which David drove her to. And … by the way, Cameron, is herself deeply into rescuing dogs, cats in village by having vets coming every 3-6 months so villagers pets get medicated etc.  Of the many places we stayed (mostly 5 star hotels) in our 4 week journey on Bali, Bali Lush made us the most happy, relaxed and delighted. We give it 10 out of 5!!!",
+   "section_id": "comp-mf6wyo49",
+   "y": 3021,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "I’m grateful for the warm welcome. So is Anna. Here’s her part of the review:",
+   "section_id": "comp-mf6wyo49",
+   "y": 3149,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Had the best time at this magic hotspot! If so happens that you lose your cosmic internet, this place will bring it back - at least that’s what happened to me. David and Cameron look like two mere mortals, but don’t be tricked - they’re true wizards. This place is designed to help look within: the Milky Way staring down at you in the warm pool, adorable animals coming to check on you, sounds of nature in the night, the rice field view at the sunrise and the warm summer shower, delicious breakfast. Altogether, a unique experience that makes you feel reborn with just the power of nature and the help of the hosts. Def a place to visit in Bali and my personal favorite place on the planet❤️",
+   "section_id": "comp-mf6wyo49",
+   "y": 3200,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Sofie",
+   "section_id": "comp-mf6wyo49",
+   "y": 3267,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Lena K",
+   "section_id": "comp-mf6wyo49",
+   "y": 3446,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Explore Other Rooms",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3570,
+   "font": "assistant-v2",
+   "size": "31.5537px",
+   "weight": "600",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Butterfly Room",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3652,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Frog Bungalow",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3652,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Duck Cottage",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3652,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Sleeps",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3844,
+   "font": "madefor-text-extrabold",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "2-3",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3872,
+   "font": "wix-madefor-text-v2",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Up to 5",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3872,
+   "font": "wix-madefor-text-v2",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  }
+ ],
+ "note": "Blocks are in visual order (desktop 1440px). Header, footer and the site-wide promo lightbox are in ../shared.json. Blog comments (spam) intentionally excluded."
+}

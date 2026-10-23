@@ -1,0 +1,232 @@
+{
+ "route": "/blog",
+ "url": "https://www.balilush.com/blog",
+ "title": "Blog | Bali Lush",
+ "meta_description": null,
+ "og": {
+  "og:title": "Blog | Bali Lush",
+  "og:url": "https://www.balilush.com/blog",
+  "og:site_name": "Bali Lush",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Blog | Bali Lush"
+ },
+ "canonical": [
+  "https://www.balilush.com/blog"
+ ],
+ "sections_in_order": [
+  {
+   "section_id": "comp-mcw29ozy",
+   "y": 198,
+   "height": 864,
+   "text_preview": "All Posts All Posts It's that Magical time of the year - Pineapple Season We love pineapples at Bali Lush, so much so that we have over 600+ in the garden. We o"
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "li",
+   "text": "All Posts",
+   "section_id": "comp-mcw29ozy",
+   "y": 218,
+   "font": "madefor-text",
+   "size": "14px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "camroncarlonhenry",
+   "section_id": "comp-mcw29ozy",
+   "y": 699,
+   "font": "madefor-text",
+   "size": "12px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "Dec 19, 2024",
+   "section_id": "comp-mcw29ozy",
+   "y": 716,
+   "font": "madefor-text",
+   "size": "12px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "1 min read",
+   "section_id": "comp-mcw29ozy",
+   "y": 716,
+   "font": "madefor-text",
+   "size": "12px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "Sep 1, 2016",
+   "section_id": "comp-mcw29ozy",
+   "y": 716,
+   "font": "madefor-text",
+   "size": "12px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "Aug 21, 2016",
+   "section_id": "comp-mcw29ozy",
+   "y": 716,
+   "font": "madefor-text",
+   "size": "12px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "Aug 16, 2016",
+   "section_id": "comp-mcw29ozy",
+   "y": 716,
+   "font": "madefor-text",
+   "size": "12px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "a",
+   "text": "It's that Magical time of the year - Pineapple Season",
+   "section_id": "comp-mcw29ozy",
+   "y": 744,
+   "font": "madefor-text",
+   "size": "14px",
+   "weight": "400",
+   "color": "#000000",
+   "href": "https://www.balilush.com/post/it-s-that-magical-time-of-the-year-pineapple-season"
+  },
+  {
+   "tag": "a",
+   "text": "Getting the Bali Lush Penjor ready for Galungan",
+   "section_id": "comp-mcw29ozy",
+   "y": 744,
+   "font": "madefor-text",
+   "size": "14px",
+   "weight": "400",
+   "color": "#000000",
+   "href": "https://www.balilush.com/post/2016/09/01/getting-the-bali-lush-penjor-ready-for-galungan"
+  },
+  {
+   "tag": "a",
+   "text": "New Rice Planting",
+   "section_id": "comp-mcw29ozy",
+   "y": 744,
+   "font": "madefor-text",
+   "size": "14px",
+   "weight": "400",
+   "color": "#000000",
+   "href": "https://www.balilush.com/post/2016/08/21/new-rice-planting"
+  },
+  {
+   "tag": "a",
+   "text": "Independence Day Celebrations Bali Style",
+   "section_id": "comp-mcw29ozy",
+   "y": 744,
+   "font": "madefor-text",
+   "size": "14px",
+   "weight": "400",
+   "color": "#000000",
+   "href": "https://www.balilush.com/post/2016/08/16/independence-day-celebrations-bali-style"
+  },
+  {
+   "tag": "div",
+   "text": "#BaliVillageLife #RiceTerraces",
+   "section_id": "comp-mcw29ozy",
+   "y": 786,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "div",
+   "text": "We love pineapples at Bali Lush, so much so that we have over 600+ in the garden. We originally started with a handful and have continued...",
+   "section_id": "comp-mcw29ozy",
+   "y": 848,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "div",
+   "text": "This coming Wednesday, September 7, 2016 is Galungan; the day when the Balinese celebrate the triumph of dharma over adharma; good over...",
+   "section_id": "comp-mcw29ozy",
+   "y": 848,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "div",
+   "text": "Tomorrow is Indepence Day, the day when all of Indonesia celebrates the day Indonesia claimed independence from the Netherlands in 1945....",
+   "section_id": "comp-mcw29ozy",
+   "y": 848,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "button",
+   "text": "Post not marked as liked",
+   "section_id": "comp-mcw29ozy",
+   "y": 976,
+   "font": "madefor-text",
+   "size": "12px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "71",
+   "section_id": "comp-mcw29ozy",
+   "y": 978,
+   "font": "madefor-text",
+   "size": "12px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "172",
+   "section_id": "comp-mcw29ozy",
+   "y": 978,
+   "font": "madefor-text",
+   "size": "12px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "94",
+   "section_id": "comp-mcw29ozy",
+   "y": 978,
+   "font": "madefor-text",
+   "size": "12px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "127",
+   "section_id": "comp-mcw29ozy",
+   "y": 978,
+   "font": "madefor-text",
+   "size": "12px",
+   "weight": "400",
+   "color": "#000000"
+  }
+ ],
+ "note": "Blocks are in visual order (desktop 1440px). Header, footer and the site-wide promo lightbox are in ../shared.json. Blog comments (spam) intentionally excluded."
+}

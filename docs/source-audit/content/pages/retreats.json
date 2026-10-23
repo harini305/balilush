@@ -1,0 +1,306 @@
+{
+ "route": "/retreats",
+ "url": "https://www.balilush.com/retreats",
+ "title": "Host a Retreat | Bali Lush",
+ "meta_description": null,
+ "og": {
+  "og:title": "Host a Retreat | Bali Lush",
+  "og:url": "https://www.balilush.com/retreats",
+  "og:site_name": "Bali Lush",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Host a Retreat | Bali Lush"
+ },
+ "canonical": [
+  "https://www.balilush.com/retreats"
+ ],
+ "sections_in_order": [
+  {
+   "section_id": "comp-mf6yjex9",
+   "y": 0,
+   "height": 451,
+   "text_preview": "Host a Retreat If you looking to take your students somewhere unique and far from the madding crowds of south Bali, we want to help you create an experience for"
+  },
+  {
+   "section_id": "comp-mf6ymzza",
+   "y": 451,
+   "height": 504,
+   "text_preview": "What We Do Our primary purpose is improving the lives of all who have contact with Bali Lush, whether it be our guests, our staff, our village, or ourselves.​ ​"
+  },
+  {
+   "section_id": "comp-mf6yvfvi",
+   "y": 955,
+   "height": 608,
+   "text_preview": "Rooms & Accommodations Our primary purpose is improving the lives of all who have contact with Bali Lush, whether it be our guests, our staff, our village, or o"
+  },
+  {
+   "section_id": "comp-mf6yvvta",
+   "y": 1563,
+   "height": 518,
+   "text_preview": "Our Kitchen We are constantly striving to reduce food miles. We grow fruits and vegetables in our gardens and additional produce is sourced from our local marke"
+  },
+  {
+   "section_id": "comp-mf6yzcy4",
+   "y": 2081,
+   "height": 504,
+   "text_preview": "The Yoga Shala If you looking for a yoga shala with a view, we can certainly provide you with one. Our stunning teak wood yoga shala sits at the heart of our re"
+  },
+  {
+   "section_id": "comp-mf70rsmk",
+   "y": 2585,
+   "height": 608,
+   "text_preview": "Experiences & Activities We are constantly striving to reduce food miles. We grow fruits and vegetables in our gardens and additional produce is sourced from ou"
+  },
+  {
+   "section_id": "comp-mf6yq8r9",
+   "y": 3193,
+   "height": 1367,
+   "text_preview": ""
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "h1",
+   "text": "Host a Retreat",
+   "section_id": "comp-mf6yjex9",
+   "y": 195,
+   "font": "assistant-light",
+   "size": "52.0191px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "If you looking to take your students somewhere unique and far from the madding crowds of south Bali, we want to help you create an experience for your retreat goers that includes relaxation amid nature, fun, adventurous, spiritual, and life changing authentic experiences.",
+   "section_id": "comp-mf6yjex9",
+   "y": 261,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "What We Do",
+   "section_id": "comp-mf6ymzza",
+   "y": 523,
+   "font": "assistant-semibold",
+   "size": "36px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Our primary purpose is improving the lives of all who have contact with Bali Lush, whether it be our guests, our staff, our village, or ourselves.",
+   "section_id": "comp-mf6ymzza",
+   "y": 598,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Whatever your dream retreat is, we'll help you make it come to life. Being boutique means we can curate a retreat to meet your needs!",
+   "section_id": "comp-mf6ymzza",
+   "y": 680,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Email us to open a discussion about how we can take care of all your guests' needs so you can focus on doing what you do best; hosting your retreat.",
+   "section_id": "comp-mf6ymzza",
+   "y": 761,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Rooms & Accommodations",
+   "section_id": "comp-mf6yvfvi",
+   "y": 1027,
+   "font": "assistant-semibold",
+   "size": "36px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Our primary purpose is improving the lives of all who have contact with Bali Lush, whether it be our guests, our staff, our village, or ourselves.",
+   "section_id": "comp-mf6yvfvi",
+   "y": 1102,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Whatever your dream retreat is, we'll help you make it come to life. Being boutique means we can curate a retreat to meet your needs!",
+   "section_id": "comp-mf6yvfvi",
+   "y": 1184,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Email us to open a discussion about how we can take care of all your guests' needs so you can focus on doing what you do best; hosting your retreat.",
+   "section_id": "comp-mf6yvfvi",
+   "y": 1265,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Our Kitchen",
+   "section_id": "comp-mf6yvvta",
+   "y": 1635,
+   "font": "assistant-semibold",
+   "size": "36px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "We are constantly striving to reduce food miles. We grow fruits and vegetables in our gardens and additional produce is sourced from our local market and a nearby organic farm.",
+   "section_id": "comp-mf6yvvta",
+   "y": 1710,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "We are constantly adding to our gardens with the ultimate aim being to make use of every inch of growing space.",
+   "section_id": "comp-mf6yvvta",
+   "y": 1819,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "We can cater to a range of dietary requirements and for all retreats we communicate in advance with the retreat leader to find out more about your guests, their requirements and preferences. It is as important to us as it is to you that you guests have an incredible experience.",
+   "section_id": "comp-mf6yvvta",
+   "y": 1900,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "a",
+   "text": "Learn More",
+   "section_id": "comp-mf6yvvta",
+   "y": 1962,
+   "font": "madefor-text",
+   "size": "16.8751px",
+   "weight": "400",
+   "color": "#FFFFFF",
+   "href": "https://www.balilush.com/restaurant"
+  },
+  {
+   "tag": "h2",
+   "text": "The Yoga Shala",
+   "section_id": "comp-mf6yzcy4",
+   "y": 2153,
+   "font": "assistant-semibold",
+   "size": "36px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "If you looking for a yoga shala with a view, we can certainly provide you with one. Our stunning teak wood yoga shala sits at the heart of our resort and is connected to the swimming pool area by an elevated bridge.",
+   "section_id": "comp-mf6yzcy4",
+   "y": 2228,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "The shala offers beautiful views over the adjacent rice terraces and stunning sunrises.",
+   "section_id": "comp-mf6yzcy4",
+   "y": 2337,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "There is a supply of yoga mats available for those who prefer to travel light.",
+   "section_id": "comp-mf6yzcy4",
+   "y": 2418,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Experiences & Activities",
+   "section_id": "comp-mf70rsmk",
+   "y": 2657,
+   "font": "assistant-semibold",
+   "size": "36px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "We are constantly striving to reduce food miles. We grow fruits and vegetables in our gardens and additional produce is sourced from our local market and a nearby organic farm.",
+   "section_id": "comp-mf70rsmk",
+   "y": 2732,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "We are constantly adding to our gardens with the ultimate aim being to make use of every inch of growing space.",
+   "section_id": "comp-mf70rsmk",
+   "y": 2841,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "We can cater to a range of dietary requirements and for all retreats we communicate in advance with the retreat leader to find out more about your guests, their requirements and preferences. It is as important to us as it is to you that you guests have an incredible experience.",
+   "section_id": "comp-mf70rsmk",
+   "y": 2922,
+   "font": "madefor-text",
+   "size": "17px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "a",
+   "text": "View Activities",
+   "section_id": "comp-mf70rsmk",
+   "y": 3054,
+   "font": "madefor-text",
+   "size": "16.8751px",
+   "weight": "400",
+   "color": "#FFFFFF",
+   "href": "https://www.balilush.com/activities"
+  }
+ ],
+ "note": "Blocks are in visual order (desktop 1440px). Header, footer and the site-wide promo lightbox are in ../shared.json. Blog comments (spam) intentionally excluded."
+}

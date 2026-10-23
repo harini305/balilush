@@ -1,0 +1,238 @@
+{
+ "route": "/restaurant",
+ "url": "https://www.balilush.com/restaurant",
+ "title": "Restaurant | Bali Lush",
+ "meta_description": "Our restaurant offers breakfast, lunch, and dinner, and is situated at the top of Bali Lush. It is the heart of the property and a true sanctuary for food, fun, family and friends. All of our recipes have been curated over the years from food magazines, recipe books, TV shows, cooking classes abroad and on the island. ",
+ "og": {
+  "og:title": "Restaurant | Bali Lush",
+  "og:description": "Our restaurant offers breakfast, lunch, and dinner, and is situated at the top of Bali Lush. It is the heart of the property and a true sanctuary for food, fun, family and friends. All of our recipes have been curated over the years from food magazines, recipe books, TV shows, cooking classes abroad and on the island. ",
+  "og:url": "https://www.balilush.com/restaurant",
+  "og:site_name": "Bali Lush",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Restaurant | Bali Lush",
+  "twitter:description": "Our restaurant offers breakfast, lunch, and dinner, and is situated at the top of Bali Lush. It is the heart of the property and a true sanctuary for food, fun, family and friends. All of our recipes have been curated over the years from food magazines, recipe books, TV shows, cooking classes abroad and on the island. "
+ },
+ "canonical": [
+  "https://www.balilush.com/restaurant"
+ ],
+ "sections_in_order": [
+  {
+   "section_id": "comp-mcw45d51",
+   "y": 0,
+   "height": 451,
+   "text_preview": "Lush Kitchen & Restaurant Open from 8AM until 9PM"
+  },
+  {
+   "section_id": "comp-mcw4fkt6",
+   "y": 451,
+   "height": 2199,
+   "text_preview": "What Makes Our Food Special At Bali Lush, we're passionate about food. Good food begins with good bread, which is why we make our own sourdough bread in-house e"
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "h1",
+   "text": "Lush Kitchen & Restaurant",
+   "section_id": "comp-mcw45d51",
+   "y": 273,
+   "font": "assistant-light",
+   "size": "52.0191px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Open from 8AM until 9PM",
+   "section_id": "comp-mcw45d51",
+   "y": 340,
+   "font": "madefor-text",
+   "size": "22.7668px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "What Makes Our Food Special",
+   "section_id": "comp-mcw4fkt6",
+   "y": 523,
+   "font": "assistant-light",
+   "size": "36.1835px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "At Bali Lush, we're passionate about food. Good food begins with good bread, which is why we make our own sourdough bread in-house every day. Our sourdough starter is called Peggy, and Peggy came to life in 2020 when we had to close for that first year of COVID. Peggy is the basis of our Country Loaf and Honey, Oats & Rye Sourdough Discard Loaf.",
+   "section_id": "comp-mcw4fkt6",
+   "y": 576,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "For our gluten-free guests, we offer a Gluten-Free Sandwich Loaf, which is also vegan—please check out our breakfast menu for the full ingredients list.",
+   "section_id": "comp-mcw4fkt6",
+   "y": 691,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#AE095B"
+  },
+  {
+   "tag": "h2",
+   "text": "Curated Recipes",
+   "section_id": "comp-mcw4fkt6",
+   "y": 812,
+   "font": "assistant-light",
+   "size": "36.1833px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "h3",
+   "text": "We also make in-house for breakfast:",
+   "section_id": "comp-mcw4fkt6",
+   "y": 812,
+   "font": "assistant-v2",
+   "size": "34.4359px",
+   "weight": "600",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "All of our recipes have been curated over the years from food magazines, recipe books, TV shows, cooking classes abroad and on the island, YouTube, food blogs, friends, and family. We are very happy to share with you what has been freely shared with us—just ask for the recipe of anything you like, and we'll WhatsApp you the link.",
+   "section_id": "comp-mcw4fkt6",
+   "y": 863,
+   "font": "wix-madefor-text-v2",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Cashew Nuts and Mixed Seeds Muesli \n100% sugar-free and Low GI",
+   "section_id": "comp-mcw4fkt6",
+   "y": 872,
+   "font": "madefor-text",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#82B42D"
+  },
+  {
+   "tag": "li",
+   "text": "English Crumpets\nMade from our recipe inspired by Great British Bake Off",
+   "section_id": "comp-mcw4fkt6",
+   "y": 872,
+   "font": "madefor-text",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#82B42D"
+  },
+  {
+   "tag": "li",
+   "text": "Spice Islands Granola \nSugar-free and oil-free",
+   "section_id": "comp-mcw4fkt6",
+   "y": 971,
+   "font": "madefor-text",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#82B42D"
+  },
+  {
+   "tag": "li",
+   "text": "Calamansi Marmalade\nCrafted from the little Calamansi tree by the koi pond",
+   "section_id": "comp-mcw4fkt6",
+   "y": 1003,
+   "font": "madefor-text",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#82B42D"
+  },
+  {
+   "tag": "li",
+   "text": "Banana Bread\nOur recipe from Bon Appétit magazine, after trialing many versions",
+   "section_id": "comp-mcw4fkt6",
+   "y": 1069,
+   "font": "madefor-text",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#82B42D"
+  },
+  {
+   "tag": "li",
+   "text": "Mulberry Pies & Muffins\nSeasonal, only when our mulberry bushes are fruiting",
+   "section_id": "comp-mcw4fkt6",
+   "y": 1135,
+   "font": "madefor-text",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#82B42D"
+  },
+  {
+   "tag": "a",
+   "text": "BREAKFAST MENU",
+   "section_id": "comp-mcw4fkt6",
+   "y": 1178,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF",
+   "href": "https://www.balilush.com/breakfast"
+  },
+  {
+   "tag": "li",
+   "text": "Coconut Yogurt\nVegan-friendly",
+   "section_id": "comp-mcw4fkt6",
+   "y": 1200,
+   "font": "madefor-text",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#82B42D"
+  },
+  {
+   "tag": "a",
+   "text": "LUNCH / DINNER MENU",
+   "section_id": "comp-mcw4fkt6",
+   "y": 1251,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF",
+   "href": "https://www.balilush.com/lunch-and-dinner"
+  },
+  {
+   "tag": "p",
+   "text": "All our prices already include 6% service charge and 10% government tax.",
+   "section_id": "comp-mcw4fkt6",
+   "y": 1328,
+   "font": "madefor-text",
+   "size": "14.7984px",
+   "weight": "400",
+   "color": "#AE095B"
+  },
+  {
+   "tag": "h2",
+   "text": "The Restaurant Space",
+   "section_id": "comp-mcw4fkt6",
+   "y": 1438,
+   "font": "assistant-light",
+   "size": "36.1833px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Our restaurant, situated at the top of Bali Lush, is the heart of the property and a true sanctuary for food, fun, family and friends. Housed in a beautifully repurposed open-air Joglo—a traditional Javanese teak residence we carefully sourced from Central Java and rebuilt on site in 2014—our space blends cultural heritage with modern comfort. Surrounded by lush greenery and stunning views, this inviting pavilion creates the perfect atmosphere to enjoy your meal, take in a book, play a board game or make new friends with other guests, our restaurant offers a unique blend of authentic architecture and yummy food in the tranquil Balinese countryside.",
+   "section_id": "comp-mcw4fkt6",
+   "y": 1484,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  }
+ ],
+ "note": "Blocks are in visual order (desktop 1440px). Header, footer and the site-wide promo lightbox are in ../shared.json. Blog comments (spam) intentionally excluded."
+}

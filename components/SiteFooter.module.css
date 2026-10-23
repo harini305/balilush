@@ -1,0 +1,47 @@
+.footer {
+  background: var(--night);
+  color: var(--white);
+  padding-top: var(--space-xl);
+}
+
+.inner {
+  display: grid;
+  gap: var(--space-l);
+  padding-bottom: var(--space-l);
+}
+
+.brand { display: flex; flex-wrap: wrap; align-items: center; gap: var(--space-m) var(--space-l); }
+.brand img { width: 130px; height: auto; }
+
+.nav ul {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, max-content));
+  column-gap: var(--space-2xl);
+  row-gap: 0.15rem;
+}
+
+.nav a, .contact a {
+  color: rgb(255 255 255 / 0.85);
+  text-decoration: none;
+  line-height: 1.9;
+}
+.nav a:hover, .contact a:hover { color: var(--lime); }
+
+.contact { display: grid; font-style: normal; }
+
+/* Desktop: one compact row — brand + Book | links in a 4 × 2 grid | contact */
+@media (min-width: 900px) {
+  .footer { padding-top: var(--space-l); }
+  .inner { grid-template-columns: auto 1fr auto; align-items: center; gap: var(--space-2xl); padding-bottom: var(--space-m); }
+  .nav { justify-self: center; }
+  .nav ul { grid-template-columns: repeat(4, max-content); column-gap: var(--space-xl); }
+  .contact { text-align: right; }
+}
+
+.legal {
+  border-top: 1px solid var(--line-dark);
+  padding-block: var(--space-s);
+  font-size: var(--step--1);
+  color: #9a9a9a;
+}

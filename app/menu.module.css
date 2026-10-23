@@ -1,0 +1,71 @@
+/* Shared by /breakfast and /lunch-and-dinner */
+.head {
+  display: grid;
+  gap: var(--space-l);
+  padding-block: var(--space-l);
+}
+
+@media (min-width: 900px) {
+  .head { grid-template-columns: 1.3fr 0.7fr; align-items: stretch; gap: clamp(2rem, 5vw, 4.5rem); }
+}
+
+.headText { display: grid; gap: var(--space-s); justify-items: start; align-content: center; max-width: 44rem; }
+.headText > p { margin: 0; }
+.headText > p:not(:global(.lede)) { color: var(--ink-soft); }
+
+.headImage { aspect-ratio: 16 / 10; }
+@media (min-width: 900px) {
+  /* Photo takes the height of the text beside it */
+  .headImage { aspect-ratio: auto; min-height: 16rem; }
+  .headImage > picture { position: absolute; inset: 0; }
+}
+
+.kicker { font-family: var(--font-heading); font-size: var(--step-2); color: var(--ink) !important; }
+.kicker span { display: block; font-size: 0.75em; color: var(--ink-soft); }
+
+.hours {
+  padding: 0.3rem 0.8rem;
+  background: var(--lime);
+  color: var(--ink) !important;
+  font-weight: 700;
+  border-radius: var(--radius);
+}
+
+.howTitle { font-size: var(--step-2); margin-top: var(--space-xs); }
+
+.orderNote { font-weight: 700; color: var(--magenta) !important; }
+
+.switch a { font-weight: 700; }
+
+/* Included-with-every-stay box */
+.included {
+  display: grid;
+  gap: var(--space-xl);
+  padding: var(--space-xl);
+  background: var(--night);
+  color: var(--white);
+  border-radius: var(--radius);
+}
+@media (min-width: 820px) { .included { grid-template-columns: 1fr 1fr; gap: var(--space-2xl); } }
+
+.includedTitle { font-family: var(--font-body); font-size: 1.05rem; font-weight: 700; color: var(--lime); margin-bottom: var(--space-s); }
+
+.includedList { list-style: none; display: grid; gap: var(--space-xs); }
+.includedList li { padding-left: 1.1rem; position: relative; color: rgb(255 255 255 / 0.9); }
+.includedList li::before { content: ''; position: absolute; left: 0; top: 0.7em; width: 0.4rem; height: 0.4rem; background: var(--green); border-radius: 50%; }
+
+.menuWrap { margin-top: var(--space-l); padding-bottom: 0; }
+
+.menuIntro { display: grid; gap: var(--space-xs); padding-bottom: var(--space-m); }
+.menuIntro p { margin: 0; }
+.menuTitle { font-size: var(--step-4); }
+
+.photoRow {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-xs);
+  padding-block: var(--space-xs) var(--space-m);
+}
+.photoRow > li { aspect-ratio: 3 / 4; }
+@media (min-width: 900px) { .photoRow > li { aspect-ratio: 16 / 10; } }

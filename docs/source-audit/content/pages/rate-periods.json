@@ -1,0 +1,804 @@
+{
+ "route": "/rate-periods",
+ "url": "https://www.balilush.com/rate-periods",
+ "title": "Seasonal Rates | Bali Lush",
+ "meta_description": null,
+ "og": {
+  "og:title": "Seasonal Rates | Bali Lush",
+  "og:url": "https://www.balilush.com/rate-periods",
+  "og:site_name": "Bali Lush",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Seasonal Rates | Bali Lush"
+ },
+ "canonical": [
+  "https://www.balilush.com/rate-periods"
+ ],
+ "sections_in_order": [
+  {
+   "section_id": "comp-msywreoa",
+   "y": 0,
+   "height": 451,
+   "text_preview": "SEASONAL RATE PERIODS"
+  },
+  {
+   "section_id": "comp-msyvl8dj3",
+   "y": 451,
+   "height": 1452,
+   "text_preview": "SEASONAL RATE PERIOD FROM TILL FREE NIGHTS Peak Season European High Season 2026 July 1, 2026 August 31, 2026 No Free Nights Mid Season September 1, 2026 Octobe"
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "h1",
+   "text": "SEASONAL RATE PERIODS",
+   "section_id": "comp-msywreoa",
+   "y": 322,
+   "font": "assistant-light",
+   "size": "52.0191px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "SEASONAL RATE PERIOD",
+   "section_id": "comp-msyvl8dj3",
+   "y": 540,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "FROM",
+   "section_id": "comp-msyvl8dj3",
+   "y": 540,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "TILL",
+   "section_id": "comp-msyvl8dj3",
+   "y": 540,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "FREE NIGHTS",
+   "section_id": "comp-msyvl8dj3",
+   "y": 540,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Peak Season\nEuropean High Season 2026",
+   "section_id": "comp-msyvl8dj3",
+   "y": 602,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "July 1, 2026",
+   "section_id": "comp-msyvl8dj3",
+   "y": 616,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "August 31, 2026",
+   "section_id": "comp-msyvl8dj3",
+   "y": 616,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "No Free Nights",
+   "section_id": "comp-msyvl8dj3",
+   "y": 616,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Mid Season",
+   "section_id": "comp-msyvl8dj3",
+   "y": 691,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "September 1, 2026",
+   "section_id": "comp-msyvl8dj3",
+   "y": 691,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "October 31, 2026",
+   "section_id": "comp-msyvl8dj3",
+   "y": 691,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pay 3 Stay 4",
+   "section_id": "comp-msyvl8dj3",
+   "y": 691,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Super Special Rates 2026",
+   "section_id": "comp-msyvl8dj3",
+   "y": 753,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "November 1, 2026",
+   "section_id": "comp-msyvl8dj3",
+   "y": 753,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "December 23, 2026",
+   "section_id": "comp-msyvl8dj3",
+   "y": 753,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pay 1 Stay 2",
+   "section_id": "comp-msyvl8dj3",
+   "y": 753,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Peak Season Rates\nChristmas 2026 to New Years 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 815,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "December 24, 2026",
+   "section_id": "comp-msyvl8dj3",
+   "y": 828,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "January 7, 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 828,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "No Free Nights",
+   "section_id": "comp-msyvl8dj3",
+   "y": 828,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Low Season",
+   "section_id": "comp-msyvl8dj3",
+   "y": 903,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "January 8, 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 903,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "March 31, 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 903,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pay 2 Stay 3",
+   "section_id": "comp-msyvl8dj3",
+   "y": 903,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Mid Season",
+   "section_id": "comp-msyvl8dj3",
+   "y": 965,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "April 1, 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 965,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "June 30, 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 965,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pay 3 Stay 4",
+   "section_id": "comp-msyvl8dj3",
+   "y": 965,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Peak Season Rates\nEuropean High Season 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1027,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "July 1, 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1040,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "August 31, 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1040,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "No Free Nights",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1040,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Mid Season",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1115,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "September 1, 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1115,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "October 31, 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1115,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pay 3 Stay 4",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1115,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Low Season",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1177,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "November 1, 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1177,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "December 23, 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1177,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pay 2 Stay 3",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1177,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Peak Season Rates\nChristmas 2027 to New Years 2028",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1239,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "December 24, 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1253,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "January 9, 2028",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1253,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "No Free Nights",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1253,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Low Season",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1328,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "January 10, 2028",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1328,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "March 31, 2028",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1328,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pay 2 Stay 3",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1328,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Mid Season",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1390,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "April 1, 2028",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1390,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "June 30, 2028",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1390,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pay 3 Stay 4",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1390,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "European High Season 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1452,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "July 1, 2028",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1452,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "August 31, 2028",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1452,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "No Free Nights",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1452,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Mid Season",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1513,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "September 1, 2028",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1513,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "October 31, 2028",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1513,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pay 3 Stay 4",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1513,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Low Season",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1575,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "November 1, 2027",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1575,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "December 19, 2028",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1575,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pay 2 Stay 3",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1575,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Peak Season Rates\nChristmas 2028 to New Years 2029",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1637,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "December 20, 2028",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1651,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "January 7, 2029",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1651,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "No Free Nights",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1651,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Low Season",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1726,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "January 8, 2029",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1726,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "March 31, 2029",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1726,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pay 2 Stay 3",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1726,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Mid Season",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1788,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "April 1, 2029",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1788,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "June 30, 2029",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1788,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pay 3 Stay 4",
+   "section_id": "comp-msyvl8dj3",
+   "y": 1788,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#000000"
+  }
+ ],
+ "note": "Blocks are in visual order (desktop 1440px). Header, footer and the site-wide promo lightbox are in ../shared.json. Blog comments (spam) intentionally excluded."
+}

@@ -1,0 +1,219 @@
+/* ---------- Tokens ---------- */
+:root {
+  /* Verified brand colours (docs/source-audit/05-brand-reference.md §3.1) */
+  --green: #82b42d;
+  --lime: #b3ce6f;
+  --magenta: #ae095b;
+  --black: #000;
+  --white: #fff;
+
+  /* Neutrals: near-black for text and dark grounds, warm paper surfaces that sit with the teak photography */
+  --ink: #161714;
+  --ink-soft: #4b4d46;
+  --ink-mute: #6e6e6e;
+  --night: #0f100e;
+  --paper: #fff;
+  --sand: #f4f1ea;
+  --sand-deep: #e8e2d6;
+  --line: #dedad0;
+  --line-dark: rgb(255 255 255 / 0.16);
+
+  --font-heading: var(--font-serif), Georgia, 'Times New Roman', serif;
+  --font-body: var(--font-sans), 'Helvetica Neue', Arial, sans-serif;
+
+  /* Type scale */
+  --step--1: 0.875rem;
+  --step-0: clamp(1rem, 0.96rem + 0.18vw, 1.0625rem);
+  --step-1: clamp(1.125rem, 1.07rem + 0.25vw, 1.25rem);
+  --step-2: clamp(1.3rem, 1.18rem + 0.55vw, 1.6rem);
+  --step-3: clamp(1.6rem, 1.38rem + 1vw, 2.2rem);
+  --step-4: clamp(2rem, 1.62rem + 1.7vw, 3.1rem);
+  --step-5: clamp(2.3rem, 1.8rem + 2.4vw, 3.9rem);
+
+  /* Spacing */
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-s: 0.75rem;
+  --space-m: 1rem;
+  --space-l: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: clamp(1.5rem, 1.3rem + 0.8vw, 2rem);
+  --space-section: clamp(1.5rem, 1.2rem + 1.2vw, 2.25rem);
+
+  --gutter: clamp(1rem, 0.5rem + 2.5vw, 2.5rem);
+  --max: 1240px;
+  --max-text: 40rem;
+  --radius: 4px;
+  --header-h: 64px;
+}
+
+@media (min-width: 1024px) {
+  :root { --header-h: 76px; }
+}
+
+/* ---------- Base ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-padding-top: calc(var(--header-h) + 1rem);
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--step-0);
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: clip;
+}
+
+img, picture, video, iframe { display: block; max-width: 100%; }
+img { height: auto; }
+
+h1, h2, h3, h4 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  margin: 0;
+  text-wrap: balance;
+}
+
+h1 { font-size: var(--step-5); }
+h2 { font-size: var(--step-4); }
+h3 { font-size: var(--step-2); }
+
+p { margin: 0 0 1em; text-wrap: pretty; }
+p:last-child { margin-bottom: 0; }
+
+a { color: inherit; text-underline-offset: 0.2em; text-decoration-thickness: 1px; }
+a:hover { text-decoration-color: var(--green); }
+
+ul, ol { margin: 0; padding: 0; }
+
+button { font: inherit; color: inherit; }
+
+:focus-visible {
+  outline: 2px solid var(--magenta);
+  outline-offset: 3px;
+}
+
+.on-dark :focus-visible,
+:where(.on-dark) :focus-visible { outline-color: var(--lime); }
+
+::selection { background: var(--lime); color: var(--ink); }
+
+/* ---------- Layout utilities ---------- */
+.container {
+  width: 100%;
+  max-width: calc(var(--max) + var(--gutter) * 2);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+.section { padding-block: var(--space-section); }
+.section--sand { background: var(--sand); }
+.section--tight { padding-block: var(--space-2xl); }
+
+/* Two touching sections on the same background share one gap instead of stacking two paddings */
+.section:not(.section--sand):not(.on-dark) + .section:not(.section--sand):not(.on-dark),
+.section--sand + .section--sand { padding-top: 0; }
+
+.prose { max-width: var(--max-text); }
+.prose p { color: var(--ink-soft); }
+
+.lede {
+  font-family: var(--font-heading);
+  font-size: var(--step-2);
+  line-height: 1.45;
+  font-weight: 400;
+  color: var(--ink);
+  margin: 0; /* always used inside grid layouts, which space it with gap */
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0);
+  white-space: nowrap; border: 0;
+}
+
+.scroll-locked { overflow: hidden; }
+
+.skip-link {
+  position: absolute;
+  left: var(--space-m);
+  top: -100px;
+  z-index: 100;
+  background: var(--lime);
+  color: var(--ink);
+  padding: var(--space-xs) var(--space-m);
+  font-weight: 700;
+  border-radius: var(--radius);
+}
+.skip-link:focus { top: var(--space-xs); }
+
+/* ---------- Buttons ---------- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  min-height: 46px;
+  padding: 0.65em 1.4em;
+  border: 1px solid transparent;
+  border-radius: var(--radius);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.btn--book { background: var(--green); color: var(--ink); }
+.btn--book:hover { background: var(--lime); }
+
+.btn--dark { background: var(--ink); color: var(--white); }
+.btn--dark:hover { background: #2c2e28; }
+
+.btn--line { border-color: currentColor; color: var(--ink); background: transparent; }
+.btn--line:hover { background: var(--ink); color: var(--white); border-color: var(--ink); }
+
+.on-dark .btn--line { color: var(--white); }
+.on-dark .btn--line:hover { background: var(--white); color: var(--ink); border-color: var(--white); }
+
+.text-link {
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: var(--green);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.3em;
+}
+.text-link:hover { text-decoration-color: var(--magenta); }
+
+.price { color: var(--magenta); font-variant-numeric: tabular-nums; }
+
+.pending-note {
+  font-size: var(--step--1);
+  color: var(--ink-mute);
+  border-left: 3px solid var(--line);
+  padding-left: var(--space-s);
+}
+
+/* Photo frame: fixed ratio box, photo covers without distortion */
+.frame { position: relative; overflow: hidden; background: var(--sand-deep); }
+.frame > picture, .frame img { width: 100%; height: 100%; }
+.frame img { object-fit: cover; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
+}

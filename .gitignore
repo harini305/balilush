@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+assets-source/
+.env*
+npm-debug.log*
+*.tsbuildinfo
+next-env.d.ts
+
+# Audit captures that include the live blog's spam comments, and 24 MB of reference screenshots.
+# They stay on disk for reference but are not published.
+docs/source-audit/raw-crawl/
+docs/source-audit/screenshots/

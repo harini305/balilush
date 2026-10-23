@@ -1,0 +1,1049 @@
+{
+ "home/garden-teak-house-terraces": {
+  "id": "A022",
+  "width": 5818,
+  "height": 3210,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "fallback": 1200
+ },
+ "home/bungalow-among-palms": {
+  "id": "A023",
+  "width": 800,
+  "height": 534,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "home/teak-bedroom-canopy-bed": {
+  "id": "A024",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/frog-outdoor-bathroom": {
+  "id": "A026",
+  "width": 1619,
+  "height": 1080,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "home/bedroom-evening-light": {
+  "id": "A027",
+  "width": 5897,
+  "height": 3932,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "home/joglo-roof-garden": {
+  "id": "A028",
+  "width": 1600,
+  "height": 1200,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "home/pool-guests-swimming": {
+  "id": "A029",
+  "width": 1142,
+  "height": 960,
+  "widths": [
+   480,
+   800,
+   1142
+  ],
+  "fallback": 1142
+ },
+ "home/bedroom-rice-view": {
+  "id": "A030",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "home/garden-lily-pond": {
+  "id": "A031",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "home/bedroom-open-windows": {
+  "id": "A032",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "home/swimming-pool": {
+  "id": "A033",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/frog-terrace-view": {
+  "id": "A034",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "home/teak-cottage-garden": {
+  "id": "A035",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "home/dining-table-garden-doors": {
+  "id": "A036",
+  "width": 1967,
+  "height": 1444,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "restaurant/garden-joglo-pool": {
+  "id": "A041",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "staff/staff-1": {
+  "id": "A043",
+  "width": 683,
+  "height": 1024,
+  "widths": [
+   480,
+   683
+  ],
+  "fallback": 683
+ },
+ "staff/staff-2": {
+  "id": "A044",
+  "width": 768,
+  "height": 1024,
+  "widths": [
+   480,
+   768
+  ],
+  "fallback": 768
+ },
+ "staff/staff-3": {
+  "id": "A045",
+  "width": 768,
+  "height": 1024,
+  "widths": [
+   480,
+   768
+  ],
+  "fallback": 768
+ },
+ "staff/staff-4": {
+  "id": "A046",
+  "width": 768,
+  "height": 1024,
+  "widths": [
+   480,
+   768
+  ],
+  "fallback": 768
+ },
+ "staff/staff-5": {
+  "id": "A047",
+  "width": 768,
+  "height": 1024,
+  "widths": [
+   480,
+   768
+  ],
+  "fallback": 768
+ },
+ "staff/staff-6": {
+  "id": "A048",
+  "width": 768,
+  "height": 1024,
+  "widths": [
+   480,
+   768
+  ],
+  "fallback": 768
+ },
+ "activities/waterfall-swim": {
+  "id": "A049",
+  "width": 6000,
+  "height": 4000,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "restaurant/mie-goreng-plates": {
+  "id": "A050",
+  "width": 5108,
+  "height": 4000,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "rooms/butterfly-card": {
+  "id": "A037",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/dragonfly-card": {
+  "id": "A038",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/frog-card": {
+  "id": "A039",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/duck-card": {
+  "id": "A040",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/butterfly-balcony": {
+  "id": "A103",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/butterfly-beds": {
+  "id": "A104",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/butterfly-desk": {
+  "id": "A105",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/butterfly-bathroom": {
+  "id": "A106",
+  "width": 800,
+  "height": 533,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/batukaru-drone": {
+  "id": "A107",
+  "width": 4032,
+  "height": 2268,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "rooms/dragonfly-desk": {
+  "id": "A086",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/dragonfly-canopy-bed": {
+  "id": "A108",
+  "width": 652,
+  "height": 529,
+  "widths": [
+   480,
+   652
+  ],
+  "fallback": 652
+ },
+ "rooms/dragonfly-bunk-beds": {
+  "id": "A109",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/frog-exterior": {
+  "id": "A025",
+  "width": 800,
+  "height": 379,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/frog-canopy-bed": {
+  "id": "A116",
+  "width": 567,
+  "height": 528,
+  "widths": [
+   480,
+   567
+  ],
+  "fallback": 567
+ },
+ "rooms/duck-garden": {
+  "id": "A110",
+  "width": 873,
+  "height": 482,
+  "widths": [
+   480,
+   800,
+   873
+  ],
+  "fallback": 873
+ },
+ "rooms/duck-bed": {
+  "id": "A111",
+  "width": 4288,
+  "height": 2848,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "rooms/duck-beds": {
+  "id": "A112",
+  "width": 4288,
+  "height": 2848,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "rooms/duck-open-plan": {
+  "id": "A113",
+  "width": 4288,
+  "height": 2848,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "rooms/duck-balcony": {
+  "id": "A114",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/duck-bathroom": {
+  "id": "A115",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "rooms/cottages-panorama": {
+  "id": "A087",
+  "width": 981,
+  "height": 405,
+  "widths": [
+   480,
+   800,
+   981
+  ],
+  "fallback": 981
+ },
+ "reviews/pool-terraces": {
+  "id": "A011",
+  "width": 1024,
+  "height": 768,
+  "widths": [
+   480,
+   800,
+   1024
+  ],
+  "fallback": 1024
+ },
+ "activities/waterfall": {
+  "id": "A002",
+  "width": 1588,
+  "height": 1536,
+  "widths": [
+   480,
+   800,
+   1200,
+   1588
+  ],
+  "fallback": 1200
+ },
+ "activities/walks-treks": {
+  "id": "A003",
+  "width": 6016,
+  "height": 4016,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "restaurant/garden-vegetables": {
+  "id": "A004",
+  "width": 3024,
+  "height": 4032,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "fallback": 1200
+ },
+ "activities/morning-market": {
+  "id": "A005",
+  "width": 6016,
+  "height": 4016,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "activities/motorcycle-tour": {
+  "id": "A006",
+  "width": 4241,
+  "height": 2386,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "activities/jamu-making": {
+  "id": "A007",
+  "width": 6000,
+  "height": 4000,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "activities/offering": {
+  "id": "A008",
+  "width": 2144,
+  "height": 1424,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "activities/local-school": {
+  "id": "A009",
+  "width": 2304,
+  "height": 1536,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "activities/yoga": {
+  "id": "A010",
+  "width": 1080,
+  "height": 1080,
+  "widths": [
+   480,
+   800,
+   1080
+  ],
+  "fallback": 1080
+ },
+ "restaurant/dining-terrace": {
+  "id": "A079",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "restaurant/dining-room": {
+  "id": "A080",
+  "width": 800,
+  "height": 531,
+  "widths": [
+   480,
+   800
+  ],
+  "fallback": 800
+ },
+ "restaurant/sate-grill": {
+  "id": "A081",
+  "width": 768,
+  "height": 1024,
+  "widths": [
+   480,
+   768
+  ],
+  "fallback": 768
+ },
+ "restaurant/sate-grill-two": {
+  "id": "A082",
+  "width": 1024,
+  "height": 768,
+  "widths": [
+   480,
+   800,
+   1024
+  ],
+  "fallback": 1024
+ },
+ "menus/breakfast-omelette": {
+  "id": "A017",
+  "width": 3024,
+  "height": 4032,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "menus/papaya-harvest": {
+  "id": "A018",
+  "width": 3024,
+  "height": 4032,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "menus/fresh-juices": {
+  "id": "A019",
+  "width": 3024,
+  "height": 4032,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "menus/sourdough-plate": {
+  "id": "A020",
+  "width": 3024,
+  "height": 4032,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "menus/retreat-buffet": {
+  "id": "A056",
+  "width": 2160,
+  "height": 3840,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "menus/slaw-salad": {
+  "id": "A057",
+  "width": 3024,
+  "height": 4032,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "menus/garden-salad": {
+  "id": "A058",
+  "width": 3024,
+  "height": 4032,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "menus/creamy-soup": {
+  "id": "A060",
+  "width": 3024,
+  "height": 4032,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "menus/stir-fried-noodles": {
+  "id": "A061",
+  "width": 3024,
+  "height": 4032,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "menus/soto-ayam": {
+  "id": "A062",
+  "width": 4032,
+  "height": 3024,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "menus/mie-goreng": {
+  "id": "A063",
+  "width": 3024,
+  "height": 4032,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "retreats/shala-cushions": {
+  "id": "A083",
+  "width": 768,
+  "height": 1024,
+  "widths": [
+   480,
+   768
+  ],
+  "fallback": 768
+ },
+ "retreats/retreat-group": {
+  "id": "A084",
+  "width": 1024,
+  "height": 768,
+  "widths": [
+   480,
+   800,
+   1024
+  ],
+  "fallback": 1024
+ },
+ "retreats/teak-house-hillside": {
+  "id": "A085",
+  "width": 700,
+  "height": 490,
+  "widths": [
+   480,
+   700
+  ],
+  "fallback": 700
+ },
+ "retreats/shala-flower-mandala": {
+  "id": "A088",
+  "width": 768,
+  "height": 1024,
+  "widths": [
+   480,
+   768
+  ],
+  "fallback": 768
+ },
+ "retreats/scooter-rice-fields": {
+  "id": "A089",
+  "width": 4608,
+  "height": 3456,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "retreats/offering-lesson": {
+  "id": "A090",
+  "width": 1536,
+  "height": 2048,
+  "widths": [
+   480,
+   800,
+   1200,
+   1536
+  ],
+  "fallback": 1200
+ },
+ "retreats/weaving-offering": {
+  "id": "A091",
+  "width": 2144,
+  "height": 1424,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "retreats/group-flower-mandala": {
+  "id": "A092",
+  "width": 768,
+  "height": 1024,
+  "widths": [
+   480,
+   768
+  ],
+  "fallback": 768
+ },
+ "retreats/candle-hands": {
+  "id": "A093",
+  "width": 725,
+  "height": 1086,
+  "widths": [
+   480,
+   725
+  ],
+  "fallback": 725
+ },
+ "retreats/balinese-dress": {
+  "id": "A096",
+  "width": 1600,
+  "height": 747,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "retreats/garden-meditation": {
+  "id": "A097",
+  "width": 768,
+  "height": 1024,
+  "widths": [
+   480,
+   768
+  ],
+  "fallback": 768
+ },
+ "retreats/group-restaurant": {
+  "id": "A098",
+  "width": 1024,
+  "height": 683,
+  "widths": [
+   480,
+   800,
+   1024
+  ],
+  "fallback": 1024
+ },
+ "retreats/cooking-class": {
+  "id": "A099",
+  "width": 1024,
+  "height": 768,
+  "widths": [
+   480,
+   800,
+   1024
+  ],
+  "fallback": 1024
+ },
+ "retreats/cooking-class-group": {
+  "id": "A100",
+  "width": 1024,
+  "height": 768,
+  "widths": [
+   480,
+   800,
+   1024
+  ],
+  "fallback": 1024
+ },
+ "retreats/lounge-verandah": {
+  "id": "A101",
+  "width": 768,
+  "height": 1024,
+  "widths": [
+   480,
+   768
+  ],
+  "fallback": 768
+ },
+ "blog/pineapple-season": {
+  "id": "A012",
+  "width": 4032,
+  "height": 3024,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "blog/pineapple-harvest": {
+  "id": "A077",
+  "width": 3024,
+  "height": 4032,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "blog/penjor-1": {
+  "id": "A014",
+  "width": 2144,
+  "height": 1424,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "blog/penjor-2": {
+  "id": "A073",
+  "width": 2144,
+  "height": 1424,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "blog/penjor-3": {
+  "id": "A074",
+  "width": 2144,
+  "height": 1424,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "blog/rice-planting": {
+  "id": "A015",
+  "width": 2016,
+  "height": 1512,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "fallback": 1200
+ },
+ "blog/tug-o-war-1": {
+  "id": "A016",
+  "width": 996,
+  "height": 1500,
+  "widths": [
+   480,
+   800,
+   996
+  ],
+  "fallback": 996
+ },
+ "blog/tug-o-war-2": {
+  "id": "A064",
+  "width": 996,
+  "height": 1500,
+  "widths": [
+   480,
+   800,
+   996
+  ],
+  "fallback": 996
+ },
+ "blog/tug-o-war-3": {
+  "id": "A065",
+  "width": 996,
+  "height": 1500,
+  "widths": [
+   480,
+   800,
+   996
+  ],
+  "fallback": 996
+ },
+ "blog/tug-o-war-4": {
+  "id": "A066",
+  "width": 996,
+  "height": 1500,
+  "widths": [
+   480,
+   800,
+   996
+  ],
+  "fallback": 996
+ },
+ "blog/tug-o-war-5": {
+  "id": "A067",
+  "width": 996,
+  "height": 1500,
+  "widths": [
+   480,
+   800,
+   996
+  ],
+  "fallback": 996
+ }
+}

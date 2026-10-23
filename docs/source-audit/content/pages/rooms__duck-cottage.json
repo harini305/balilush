@@ -1,0 +1,547 @@
+{
+ "route": "/rooms/duck-cottage",
+ "url": "https://www.balilush.com/rooms/duck-cottage",
+ "title": "Duck Cottage | Bali Lush",
+ "meta_description": null,
+ "og": {
+  "og:title": "Duck Cottage | Bali Lush",
+  "og:image": "https://static.wixstatic.com/media/046d7e_23faaa7d5e24470e8e7949f73b04a159~mv2.jpg/v1/fill/w_800,h_531,al_c,q_85/DSC_0654_resize.jpg",
+  "og:image:width": "800",
+  "og:image:height": "531",
+  "og:url": "https://www.balilush.com/rooms/duck-cottage",
+  "og:site_name": "Bali Lush",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Duck Cottage | Bali Lush",
+  "twitter:image": "https://static.wixstatic.com/media/046d7e_23faaa7d5e24470e8e7949f73b04a159~mv2.jpg/v1/fill/w_800,h_531,al_c,q_85/DSC_0654_resize.jpg"
+ },
+ "canonical": [
+  "https://www.balilush.com/rooms/duck-cottage"
+ ],
+ "sections_in_order": [
+  {
+   "section_id": "comp-maraff1e",
+   "y": 0,
+   "height": 388,
+   "text_preview": "Suitable for Families Sleeps Up to 5 Book Your Stay Duck Cottage"
+  },
+  {
+   "section_id": "comp-mfwne6qz",
+   "y": 388,
+   "height": 1273,
+   "text_preview": ""
+  },
+  {
+   "section_id": "comp-mfwniwpf",
+   "y": 1660,
+   "height": 771,
+   "text_preview": "Duck Cottage is stand-alone family bungalow. Our largest guest room, the interior space is a single oversized open plan living space and bedroom with private op"
+  },
+  {
+   "section_id": "comp-mf6wyo49",
+   "y": 2431,
+   "height": 1007,
+   "text_preview": "Reviews from This Room... > View All Testimonials My husband and I had 3 wonderful nights staying in the Duck / Bebek room and loved our time. Breakfast is fant"
+  },
+  {
+   "section_id": "comp-mf6ws4dh",
+   "y": 3438,
+   "height": 441,
+   "text_preview": "Explore Other Rooms Butterfly Room Sleeps 2-3 Dragonfly Room Sleeps Up to 5 Frog Bungalow Sleeps 2-3"
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "h2",
+   "text": "Duck Cottage",
+   "section_id": "comp-maraff1e",
+   "y": 252,
+   "font": "dancingscript-regular",
+   "size": "55px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "a",
+   "text": "Book Your Stay",
+   "section_id": "comp-maraff1e",
+   "y": 258,
+   "font": "madefor-text",
+   "size": "18.2134px",
+   "weight": "400",
+   "color": "#FFFFFF",
+   "href": "https://hotels.cloudbeds.com/en/reservation/tLFmXv?currency=idr"
+  },
+  {
+   "tag": "p",
+   "text": "Suitable for",
+   "section_id": "comp-maraff1e",
+   "y": 260,
+   "font": "assistant-v2",
+   "size": "20.25px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Sleeps",
+   "section_id": "comp-maraff1e",
+   "y": 261,
+   "font": "assistant-v2",
+   "size": "20.25px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Families",
+   "section_id": "comp-maraff1e",
+   "y": 287,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Up to 5",
+   "section_id": "comp-maraff1e",
+   "y": 289,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Duck Cottage is stand-alone family bungalow. Our largest guest room, the interior space is a single oversized open plan living space and bedroom with private open air bathroom.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1732,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Amenities:",
+   "section_id": "comp-mfwniwpf",
+   "y": 1732,
+   "font": "assistant-v2",
+   "size": "29.3976px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Air conditioning and twin ceiling fans.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1789,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Block out curtains.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1814,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Duck cottage has its own private entrance and balcony. Clove trees line the balcony - when in the season the sent of clove fills the room.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1835,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Bedside lamps and individual reading lights.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1840,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "International charging sockets (no need to pack those international adapters).",
+   "section_id": "comp-mfwniwpf",
+   "y": 1866,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Sateen cotton sheets and covers.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1891,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Suitable for families up to 5, a group of up to 4 friends or two couples happy to share the same bedroom, the room can be configured as:",
+   "section_id": "comp-mfwniwpf",
+   "y": 1911,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Summer weight duvet.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1917,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "2 standard and 2 super king luxury hotel pillows for the King bed and 1 standard and 1 super.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1942,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "2 Super King beds 200 x 200 cm",
+   "section_id": "comp-mfwniwpf",
+   "y": 1963,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "1 Super King 200 x 200 cm and 2 single beds 100 x 200 cm",
+   "section_id": "comp-mfwniwpf",
+   "y": 1988,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "King pillow for every single bed as needed.",
+   "section_id": "comp-mfwniwpf",
+   "y": 1993,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "4 single beds 100 x 200 cm",
+   "section_id": "comp-mfwniwpf",
+   "y": 2014,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Guest soaps by Bali Asli.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2019,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "A day bed can be converted into a 5th guest bed for an extra child.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2039,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "1 pool towel, 1 bath towel and face washer per guest.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2045,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Flat screen LCD TV.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2070,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "DVD player.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2096,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Selection of DVD’s and books.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2121,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Minibar.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2147,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "In-room laptop safe.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2173,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Tea and coffee making facilities.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2198,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "We are one of the few properties where it is safe to drink the water directly from our taps.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2224,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "li",
+   "text": "Bali Lush has a private well and the water is sourced on site through 60M of volcanic rock.",
+   "section_id": "comp-mfwniwpf",
+   "y": 2275,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Reviews from This Room...",
+   "section_id": "comp-mf6wyo49",
+   "y": 2506,
+   "font": "assistant-v2",
+   "size": "31.5537px",
+   "weight": "600",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "> View All Testimonials",
+   "section_id": "comp-mf6wyo49",
+   "y": 2512,
+   "font": "assistant-v2",
+   "size": "20.49px",
+   "weight": "500",
+   "color": "#AE095B"
+  },
+  {
+   "tag": "p",
+   "text": "My husband and I had 3 wonderful nights staying in the Duck / Bebek room and loved our time. Breakfast is fantastic with all food cooked freshly to order. I highly recommended the poached eggs on toast. Perfectly cooked and delicious. Drinking water provided at each meal free of charge and if you need another cup of coffee at breakfast the staff was happy to make. Rooms spacious and clean and great water pressure and plenty of hot, hot water! You are also able to drink directly from the tap as the rooms have natural spring water which is delicious and safe to drink. The garden is a delight with so many fruit trees.  They even have vanilla vines and cocoa trees! The mattress is comfortable with a range of great pillows for a restful nights sleep. The sound of the river ensures that you are rested and refreshed. Dinner menu is small but perfect and menu changes daily. Pool and yoga space clean and inviting. We wish we had been able to stay longer.",
+   "section_id": "comp-mf6wyo49",
+   "y": 2600,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "A very unique Hotel. Indescribable beauty. Wood carved Teak bungalows, each with stunning views of lush vegetation and terraced rice fields. A romantic heart shaped pool. And a lovely onsite restaurant, with local staff that make the best Chai Latte you have ever tasted!!!",
+   "section_id": "comp-mf6wyo49",
+   "y": 2600,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Jennifer G",
+   "section_id": "comp-mf6wyo49",
+   "y": 2718,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Angel House Ubud",
+   "section_id": "comp-mf6wyo49",
+   "y": 2923,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Absolutely outstanding! This is one of the very special places to stay on the island of Bali . Beautifully designed in a eco friendly way with much regard and respect for the local community. You can watch the farmers lovingly caring for their rice fields from your balcony! The owners clearly care for and work with the local community and integrate sustainable tourism into their business. The food is healthy, tasty and mostly from the local fields. Komang is a great cook and the staff very friendly and helpful. The surrounding countryside is beautiful and many things to do in the area. It’s a photographers paradise. I think Bali lush is a great example of cultural tourism respecting the land , the local communities and culture. We need more of this . Also , the rooms are great and very comfortable beds, peaceful, quiet nights , you wake to the sounds of birds in the morning and it’s cooler than other parts of Bali . Perfect temperature.",
+   "section_id": "comp-mf6wyo49",
+   "y": 3021,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "We had the best time at Bali lush  The perfect escape! Staff were beautiful! Food was the best we have had in Bali. Rooms stunning! Favourite place in Bali!  Beautiful village life with kind loving people.  Off the beaten track. A unique Bali experience.",
+   "section_id": "comp-mf6wyo49",
+   "y": 3021,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Jordana H",
+   "section_id": "comp-mf6wyo49",
+   "y": 3139,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "David Metcalf",
+   "section_id": "comp-mf6wyo49",
+   "y": 3344,
+   "font": "madefor-text",
+   "size": "16px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Explore Other Rooms",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3468,
+   "font": "assistant-v2",
+   "size": "31.5537px",
+   "weight": "600",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Butterfly Room",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3550,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Dragonfly Room",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3550,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Frog Bungalow",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3550,
+   "font": "dancingscript-regular",
+   "size": "43.2569px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Sleeps",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3741,
+   "font": "madefor-text-extrabold",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "2-3",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3769,
+   "font": "wix-madefor-text-v2",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "Up to 5",
+   "section_id": "comp-mf6ws4dh",
+   "y": 3769,
+   "font": "wix-madefor-text-v2",
+   "size": "20.49px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  }
+ ],
+ "note": "Blocks are in visual order (desktop 1440px). Header, footer and the site-wide promo lightbox are in ../shared.json. Blog comments (spam) intentionally excluded."
+}

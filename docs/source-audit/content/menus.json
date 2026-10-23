@@ -1,0 +1,422 @@
+{
+ "breakfast": {
+  "source": "https://www.balilush.com/breakfast",
+  "intro": [
+   "Selamat Pagi\nSilakan Makan Sarapan",
+   "Good Morning - Enjoy Your Breakfast",
+   "Please note our staff will take your order the night before.",
+   "All Rooms Include Breakfast with the Following:",
+   "Also Included:",
+   "1 x Fruit Plate or Fresh Fruit Juice",
+   "Bali Coffee, Twinnings Tea, Water (as much as you like)",
+   "Jamu - traditional Indonesian Herbal Tonic. Made from fresh turmeric, ginger, kencur (sand ginger) lime juice, salt and palm sugar.",
+   "1 x Premium Coffee or Pot Tea",
+   "1 x Main or Indonesian",
+   "Made from fresh turmeric, ginger, kencur (sand ginger) lime juice, salt and palm sugar. Try it neat as a shot, or dilute it with warm water. Great way to start the day the Bali Lush way.",
+   "1 x Bakery"
+  ],
+  "categories": [
+   {
+    "category": "Premium Coffee or Pot of Tea",
+    "items": [
+     {
+      "name": "Cappucino",
+      "description": null
+     },
+     {
+      "name": "Caffe Latte",
+      "description": null
+     },
+     {
+      "name": "Moka Pot",
+      "description": null
+     },
+     {
+      "name": "Vietnamese Drip",
+      "description": null
+     },
+     {
+      "name": "Fresh Herb Tea",
+      "description": "Ginger, Peppermint, Lemongrass"
+     },
+     {
+      "name": "Herbal Tea",
+      "description": "Peppermint, Chamomile"
+     },
+     {
+      "name": "Loose Leaf Tea",
+      "description": "Ginger, Peppermint, Lemongrass"
+     },
+     {
+      "name": "Loose Leaf Black Tea",
+      "description": "English Breakfast, Earl Grey, Jasmine"
+     }
+    ],
+    "notes": [
+     "*choose your milk",
+     "Fresh cows milk or",
+     "Plant milk: soy, oat or coconut (house made)"
+    ]
+   },
+   {
+    "category": "Main Breakfast",
+    "items": [
+     {
+      "name": "Eggs Your Way",
+      "description": "2 eggs fried, poached, scrambled, or boiled on toast"
+     },
+     {
+      "name": "Omelet",
+      "description": "2 or 3 eggs, with your choice of vegetables and/or feta cheese"
+     },
+     {
+      "name": "French Crepes",
+      "description": null
+     },
+     {
+      "name": "Pancakes",
+      "description": null
+     },
+     {
+      "name": "Tropical Fruit Smoothie Bowls (VG)",
+      "description": "Oil-free and refined sugar-free"
+     },
+     {
+      "name": "Spice Islands Granola* (VG)",
+      "description": "Oil-free and refined sugar-free \nDried mango, papaya, pineapple, coconut flakes, cinnamon, cloves, ginger, cardamom, cashew  nuts, pumpkin, sesame and sunflower seeds, oats and"
+     },
+     {
+      "name": "Cashew Nut and Mixed Seeds Muesli *(VG)",
+      "description": "100% Sugar free, Low GI, lightly toasted, no fruit."
+     },
+     {
+      "name": "Loose Leaf Black Tea",
+      "description": "English Breakfast, Earl Grey, Jasmine"
+     }
+    ],
+    "notes": [
+     "*Choose your milk or yogurt: Coconut yogurt (house made) Plain Yogurt"
+    ]
+   },
+   {
+    "category": "(dairy) Indonesian Breakfast",
+    "items": [
+     {
+      "name": "Nasi Goreng - Sayuran atau Ayam",
+      "description": "stir fried rice vegetarian or chicken with a fried egg"
+     },
+     {
+      "name": "Mie Goreng - Sayuran atau Ayam",
+      "description": "stir fried noodles vegetarian or chicken with a fried egg"
+     },
+     {
+      "name": "Bubur Ayam",
+      "description": "rice porridge served with chicken stock and your choice of toppings and condiments: shredded  chicken; hard boiled egg; fried asian shallots; coriander leaf; sweet soy sauce"
+     },
+     {
+      "name": "Tumis Paku",
+      "description": "fiddle head ferns harvested fresh from the garden, stir fried with garlic, shallots and chili"
+     },
+     {
+      "name": "Bubur Hitam",
+      "description": "black glutinous rice porridge cooked with coconut milk & palm sugar, served with coconut cream"
+     }
+    ],
+    "notes": []
+   },
+   {
+    "category": "Bakery",
+    "items": [
+     {
+      "name": "Country Sourdough (V)",
+      "description": null
+     },
+     {
+      "name": "Gluten Free Sandwich Loaf (V)(GF)",
+      "description": null
+     },
+     {
+      "name": "Honey, Oats and Rye Sourdough Discard Loaf",
+      "description": "great for digestion"
+     },
+     {
+      "name": "Banana Bread",
+      "description": "best on the island"
+     },
+     {
+      "name": "English Crumpets",
+      "description": "very yummy with butter and honey"
+     }
+    ],
+    "notes": [
+     "*House made vegan butter available on request",
+     "Our gluten free bread is made from potato starch, sweet white rice flour, brown  rice flour, tapioca flour, chickpea flour, and xanthan gum."
+    ]
+   }
+  ]
+ },
+ "lunch_and_dinner": {
+  "source": "https://www.balilush.com/lunch-and-dinner",
+  "intro": [
+   "Lunch & Dinner",
+   "Open from 8AM until 9PM",
+   "How it Works Every Day",
+   "Each morning at breakfast, our staff will ask you what you’d like for lunch and dinner. Instead of a fixed menu, we offer an ever-changing selection of approximately 10-14 dishes, inspired by our large repertoire of international cuisine. Drawing from Bali and Indonesia’s rich flavors, as well as Thai, Chinese, Japanese, Western, Italian, Mediterranean, Indian, and Middle Eastern recipes, we craft fresh, seasonal dishes based on what’s coming out of our gardens and what we’ve sourced from local markets. Enjoy a diverse, flavorful journey every day in a relaxed, authentic setting.",
+   "Lunch / Dinner Menu",
+   "Please note our staff will take your order in the morning."
+  ],
+  "categories": [
+   {
+    "category": "Starters",
+    "items": [
+     {
+      "name": "Garlic Bread",
+      "description": "our house baked sourdough bread slathered in a garlic and herb butter"
+     },
+     {
+      "name": "Edamame",
+      "description": "Japanese bar snack of boiled young soybeans sprinkled with sea salt, served in the pod. Great with a beer."
+     },
+     {
+      "name": "Mini Spring Rolls",
+      "description": "Crispy on the outside with savory glass noodles and vegetable filling, served with a dipping sauce."
+     },
+     {
+      "name": "Vietnamese Salad Rolls",
+      "description": "fresh rice paper wraps, asian herbs, lettuce, cucumber, and rice noodles, served with nuoc cham dipping sauce (fish sauce, lime juice, sugar, garlic, and chili). Choose your protein filling: shredded chicken, prawns, tofu or tempe"
+     },
+     {
+      "name": "Baba Ganoush",
+      "description": "Smoky charred eggplant dip blended with tahini, garlic, lemon juice, and olive oil"
+     },
+     {
+      "name": "Hummus",
+      "description": "Creamy Middle Eastern chickpea and tahini dip, seasoned with garlic and lemon"
+     },
+     {
+      "name": "Pita Bread",
+      "description": "Soft, warm Middle Eastern flatbread, perfect for dipping"
+     },
+     {
+      "name": "Focaccia",
+      "description": "flat leavened oven-baked Italian bread with rosemary and garlic"
+     }
+    ],
+    "notes": []
+   },
+   {
+    "category": "Salads",
+    "items": [
+     {
+      "name": "Garden Salad",
+      "description": "lettuce, cucumbers, tomatoes, and carrots, tossed in a light vinaigrette."
+     },
+     {
+      "name": "Greek Salad",
+      "description": "tomatoes, cucumbers, paprika, feta cheese, and olives"
+     },
+     {
+      "name": "Whatever Salad",
+      "description": "whatever we’ve got that day goes in to make a salad"
+     },
+     {
+      "name": "Salad Nicoise",
+      "description": "canned tuna, boiled potato, green beans, tomato, lettuce, olives, dressed with a white wine vinaigrette"
+     },
+     {
+      "name": "Thai Green Papaya",
+      "description": "shredded unripe papaya mixed with tomatoes, long beans, dried shrimp, garlic, bird's eye chili, lime juice, chopped peanuts, fried shallots, and nuoc cham dressing."
+     },
+     {
+      "name": "Lebanese Slaw",
+      "description": "crisp shredded cabbage with fresh dill, mint and parsley, tossed in a tangy lemon and olive oil dressing, and a sprinkle of sumac"
+     },
+     {
+      "name": "Fattoush",
+      "description": "Middle Eastern salad of fresh leaf lettuce, mint, parsley, shredded cabbage, cucumber, and red radish slices. Dressed with a tangy lemon vinaigrette, sprinkled with sumac, and topped with crispy toasted house-baked pita croutons for added crunch."
+     },
+     {
+      "name": "Tabouleh Salad - Bali Lush Style",
+      "description": "A refreshing Levantine herb salad with finely chopped parsley, soaked bulgur, tomatoes, mint, and scallions, seasoned with lemon juice and olive oil. We add finely diced cucumber for crunch."
+     },
+     {
+      "name": "Palestinian Beetroot & Lentil",
+      "description": "roasted beetroot, diced then combined with puy lentils, fresh herbs, and a tangy dill and yoghurt dressing"
+     }
+    ],
+    "notes": []
+   },
+   {
+    "category": "Soups",
+    "items": [
+     {
+      "name": "Turkish Red Lentil",
+      "description": "hearty peasant style soup made from red lentils, cracked bulgur wheat, rice, onions, tomato paste, flavored with smoked paprika and dried mint flakes."
+     },
+     {
+      "name": "Cauliflower Soup",
+      "description": "oven baked cauliflower with thyme, rosemary and oregano blended till a smooth puree"
+     },
+     {
+      "name": "Tomato Soup",
+      "description": "fresh tomatoes and mediterranean herbs cooked then blended till smooth"
+     },
+     {
+      "name": "Pumpkin Soup",
+      "description": "just pumpkin baked in the oven with herbs and olive oil, blitzed till a silky smooth puree"
+     },
+     {
+      "name": "Chinese Egg Drop Soup",
+      "description": "chicken broth with silky poached egg ribbons, seasoned with ginger, scallions, white pepper. Served with either sweet corn kernels or diced tomatoes"
+     }
+    ],
+    "notes": []
+   },
+   {
+    "category": "Pasta",
+    "items": [
+     {
+      "name": "Pomodoro",
+      "description": "classic Italian tomato sauce made with ripe tomatoes, garlic, olive oil, and fresh herbs"
+     },
+     {
+      "name": "Pesto",
+      "description": "house made with cashew nuts, fresh basil, garlic, Parmesan, and olive oil."
+     },
+     {
+      "name": "Al Tonno",
+      "description": "Classic Italian pasta with tuna, garlic, olive oil, and chopped tomatoes"
+     },
+     {
+      "name": "Aglio Olio",
+      "description": "Simple Italian pasta dish with garlic, olive oil, and red pepper flakes, garnished with lots of finely chopped parsley"
+     },
+     {
+      "name": "Puttanesca",
+      "description": "Italian pasta tossed in a tasty sauce of diced tomatoes, anchovies, garlic, olives, capers, and a pinch of chili."
+     }
+    ],
+    "notes": []
+   },
+   {
+    "category": "Stir-Fry",
+    "items": [
+     {
+      "name": "Chinese Black Bean Sauce",
+      "description": "tender vegetables or meat stir-fried with fermented black bean sauce, garlic, ginger, and soy sauce. Umami bomb served with rice."
+     },
+     {
+      "name": "Holy Basil Stir-Fry",
+      "description": "fresh holy basil leaves, stir-fried with meat or vegetables, garlic, chili, and savory thai sauces"
+     },
+     {
+      "name": "Thai Stir Fried Chicken & Cashew Nuts",
+      "description": "Tender chicken stir-fried with Sumba sourced whole cashews, Thai spices, mixed paprika bell peppers, in a savory, slightly sweet sauce. Comes Served with rice. A guest favorite."
+     },
+     {
+      "name": "Thai Ginger Flat Rice Noodles",
+      "description": "Stir-fried rice noodles with fresh ginger, shiitake mushrooms, and tender chicken in a savory oyster soy sauce"
+     }
+    ],
+    "notes": []
+   },
+   {
+    "category": "Curries",
+    "items": [
+     {
+      "name": "Kari Kuning",
+      "description": "Indonesian ‘yellow curry’ vibrantly colored by turmeric curry paste and coconut milk"
+     },
+     {
+      "name": "Thai Green Curry",
+      "description": "coconut milk, mixed green vegetables with a vibrant, flavorful chili paste made from green chilies, garlic, lemongrass, cilantro roots, galangal, shallots, and spices"
+     },
+     {
+      "name": "Thai Red Curry",
+      "description": "coconut milk, potato, carrots with an aromatic spice paste blend of red chili peppers, garlic, lemongrass, galangal, shallots, spices, and asian herbs"
+     },
+     {
+      "name": "Thai Panang Curry",
+      "description": "A rich, coconut milk curry with a spice blend paste of dried chilies, lemongrass, galangal, kaffir lime leaf, and zest, cilantro roots, garlic, shallots, shrimp paste, and prominently featuring roasted peanuts for depth and richness."
+     }
+    ],
+    "notes": [
+     "*Choose to make it either vegetable only, tofu, tempe, chicken or pork.",
+     "**All our curries are mild chili heat. If you want extra heat, be sure to ask for ‘Pedas’ (spicy)"
+    ]
+   },
+   {
+    "category": "Indonesian",
+    "items": [
+     {
+      "name": "Gado Gado",
+      "description": "salad consisting of mixed boiled vegetables, tofu, hard boiled egg, topped with a delicious fragrant and rich peanut sauce."
+     },
+     {
+      "name": "Soto Ayam",
+      "description": "aromatic chicken stock flavored with turmeric, lemon grass, served over vermicelli rice noodles, asian vegetables, topped with a hard boiled egg and crisp fried asian shallots"
+     },
+     {
+      "name": "Soto Ares Babi",
+      "description": "Balinese pork and banana tree trunk soup - very unique and traditional."
+     },
+     {
+      "name": "*Sate",
+      "description": "cooked on our outdoor coconut charcoal grill station. Served with steamed rice, crispy ‘Emping’ crackers, asian pickles and peanut sauce."
+     },
+     {
+      "name": "*Nasi Campur",
+      "description": "literally ‘mixed rice’. Ubiquitous all throughout Indonesia with every region doing their own take of steamed rice served on a single plate with a variety of side dishes such as vegetables, proteins, and sambal. Be sure to ask the kitchen staff what they can cook up today."
+     },
+     {
+      "name": "*Nasi Goreng",
+      "description": "the Classic stir fried rice dish with garlic, shallots, sweet soy, and spices. Request to add a fried egg on top to have it ‘local style’"
+     },
+     {
+      "name": "*Mie Goreng",
+      "description": "Indonesian fried noodles stir-fried with vegetables, garlic, soy sauce, and spices,"
+     },
+     {
+      "name": "*Cap Cay",
+      "description": "pronounced ‘Chup Chai’ - is a popular Indonesian mixed vegetable stir-fry dish, cooked with garlic, soy sauce."
+     }
+    ],
+    "notes": [
+     "*your choice of vegetable only, tofu, tempe, chicken or pork."
+    ]
+   },
+   {
+    "category": "Burgers & Sandwiches",
+    "items": [
+     {
+      "name": "Grilled Cheese",
+      "description": "choose your bread: house sourdough or oat, rye and honey sourdough discard loaf . Choose your topping; tomato and onion or pineapple and onion"
+     },
+     {
+      "name": "Egg Salad Sandwich",
+      "description": "Chopped hard-boiled eggs mixed with savory mayonnaise, capers, onions, pickles, Dijon mustard, served on toasted house sourdough with a bed of lettuce."
+     },
+     {
+      "name": "Make your own Tomato & Basil Sandwich",
+      "description": "Fresh sliced tomatoes and whole basil leaves served with our house sourdough, butter, and herbed salt on the side, allowing you to assemble and season how you like it."
+     },
+     {
+      "name": "Chicken Burger",
+      "description": "house made burger bun, grilled chicken, your choice of salad and condiments"
+     }
+    ],
+    "notes": []
+   }
+  ]
+ },
+ "restaurant_in_house_list": [
+  "Cashew Nuts and Mixed Seeds Muesli \n100% sugar-free and Low GI",
+  "English Crumpets\nMade from our recipe inspired by Great British Bake Off",
+  "Spice Islands Granola \nSugar-free and oil-free",
+  "Calamansi Marmalade\nCrafted from the little Calamansi tree by the koi pond",
+  "Banana Bread\nOur recipe from Bon Appétit magazine, after trialing many versions",
+  "Mulberry Pies & Muffins\nSeasonal, only when our mulberry bushes are fruiting",
+  "Coconut Yogurt\nVegan-friendly"
+ ],
+ "note": "Verbatim from live site. No menu prices are published. Items marked * / (VG) / (V) / (GF) as on site. Some category headings/notes contain errors - see 08-issues."
+}

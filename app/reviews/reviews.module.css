@@ -1,0 +1,14 @@
+.head {
+  display: grid;
+  gap: var(--space-l);
+  padding-block: var(--space-l);
+}
+
+@media (min-width: 900px) {
+  .head { grid-template-columns: 1.1fr 0.9fr; align-items: center; gap: clamp(2rem, 6vw, 6rem); }
+}
+
+.headText { display: grid; gap: var(--space-l); }
+.headImage { aspect-ratio: 16 / 10; max-height: 22rem; }
+
+.tripadvisor { margin-top: var(--space-xl); }

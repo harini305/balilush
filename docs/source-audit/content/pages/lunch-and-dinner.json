@@ -1,0 +1,1152 @@
+{
+ "route": "/lunch-and-dinner",
+ "url": "https://www.balilush.com/lunch-and-dinner",
+ "title": "Lunch & Dinner | Menu | Bali Lush",
+ "meta_description": "We offer an ever-changing selection of approximately 10-14 dishes, inspired by our large repertoire of international cuisine. Drawing from Bali and Indonesia’s rich flavors, as well as Thai, Chinese, Japanese, Western, Italian, Mediterranean, Indian, and Middle Eastern recipes.",
+ "og": {
+  "og:title": "Lunch & Dinner | Menu | Bali Lush",
+  "og:description": "We offer an ever-changing selection of approximately 10-14 dishes, inspired by our large repertoire of international cuisine. Drawing from Bali and Indonesia’s rich flavors, as well as Thai, Chinese, Japanese, Western, Italian, Mediterranean, Indian, and Middle Eastern recipes.",
+  "og:url": "https://www.balilush.com/lunch-and-dinner",
+  "og:site_name": "Bali Lush",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "Lunch & Dinner | Menu | Bali Lush",
+  "twitter:description": "We offer an ever-changing selection of approximately 10-14 dishes, inspired by our large repertoire of international cuisine. Drawing from Bali and Indonesia’s rich flavors, as well as Thai, Chinese, Japanese, Western, Italian, Mediterranean, Indian, and Middle Eastern recipes."
+ },
+ "canonical": [
+  "https://www.balilush.com/lunch-and-dinner"
+ ],
+ "sections_in_order": [
+  {
+   "section_id": "comp-mf5nurvj",
+   "y": 0,
+   "height": 451,
+   "text_preview": "Lunch & Dinner Open from 8AM until 9PM"
+  },
+  {
+   "section_id": "comp-mf5nus0q",
+   "y": 766,
+   "height": 6766,
+   "text_preview": "Lunch / Dinner Menu Please note our staff will take your order in the morning. Salads Garden Salad lettuce, cucumbers, tomatoes, and carrots, tossed in a light "
+  },
+  {
+   "section_id": "comp-mf5nurxv",
+   "y": 451,
+   "height": 314,
+   "text_preview": "How it Works Every Day Each morning at breakfast, our staff will ask you what you’d like for lunch and dinner. Instead of a fixed menu, we offer an ever-changin"
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "h1",
+   "text": "Lunch & Dinner",
+   "section_id": "comp-mf5nurvj",
+   "y": 273,
+   "font": "assistant-light",
+   "size": "52.0187px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Open from 8AM until 9PM",
+   "section_id": "comp-mf5nurvj",
+   "y": 340,
+   "font": "madefor-text",
+   "size": "22.7668px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h2",
+   "text": "How it Works Every Day",
+   "section_id": "comp-mf5nurxv",
+   "y": 523,
+   "font": "assistant-light",
+   "size": "36.1833px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Each morning at breakfast, our staff will ask you what you’d like for lunch and dinner. Instead of a fixed menu, we offer an ever-changing selection of approximately 10-14 dishes, inspired by our large repertoire of international cuisine. Drawing from Bali and Indonesia’s rich flavors, as well as Thai, Chinese, Japanese, Western, Italian, Mediterranean, Indian, and Middle Eastern recipes, we craft fresh, seasonal dishes based on what’s coming out of our gardens and what we’ve sourced from local markets. Enjoy a diverse, flavorful journey every day in a relaxed, authentic setting.",
+   "section_id": "comp-mf5nurxv",
+   "y": 576,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h1",
+   "text": "Lunch / Dinner Menu",
+   "section_id": "comp-mf5nus0q",
+   "y": 864,
+   "font": "assistant-v2",
+   "size": "52.0187px",
+   "weight": "700",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "p",
+   "text": "Please note our staff will take your order in the morning.",
+   "section_id": "comp-mf5nus0q",
+   "y": 930,
+   "font": "wix-madefor-text-v2",
+   "size": "22.7668px",
+   "weight": "400",
+   "color": "#FFFFFF"
+  },
+  {
+   "tag": "h1",
+   "text": "Starters",
+   "section_id": "comp-mf5nus0q",
+   "y": 1042,
+   "font": "dancingscript-regular",
+   "size": "50.0869px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Garlic Bread",
+   "section_id": "comp-mf5nus0q",
+   "y": 1125,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "our house baked sourdough bread slathered in a garlic and herb butter",
+   "section_id": "comp-mf5nus0q",
+   "y": 1155,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Edamame",
+   "section_id": "comp-mf5nus0q",
+   "y": 1193,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Japanese bar snack of boiled young soybeans sprinkled with sea salt, served in the pod. Great with a beer.",
+   "section_id": "comp-mf5nus0q",
+   "y": 1223,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Mini Spring Rolls",
+   "section_id": "comp-mf5nus0q",
+   "y": 1290,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Crispy on the outside with savory glass noodles and vegetable filling, served with a dipping sauce.",
+   "section_id": "comp-mf5nus0q",
+   "y": 1320,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Vietnamese Salad Rolls",
+   "section_id": "comp-mf5nus0q",
+   "y": 1386,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "fresh rice paper wraps, asian herbs, lettuce, cucumber, and rice noodles, served with nuoc cham dipping sauce (fish sauce, lime juice, sugar, garlic, and chili). Choose your protein filling: shredded chicken, prawns, tofu or tempe",
+   "section_id": "comp-mf5nus0q",
+   "y": 1416,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Baba Ganoush",
+   "section_id": "comp-mf5nus0q",
+   "y": 1511,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Smoky charred eggplant dip blended with tahini, garlic, lemon juice, and olive oil",
+   "section_id": "comp-mf5nus0q",
+   "y": 1541,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Hummus",
+   "section_id": "comp-mf5nus0q",
+   "y": 1579,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Creamy Middle Eastern chickpea and tahini dip, seasoned with garlic and lemon",
+   "section_id": "comp-mf5nus0q",
+   "y": 1609,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pita Bread",
+   "section_id": "comp-mf5nus0q",
+   "y": 1647,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Soft, warm Middle Eastern flatbread, perfect for dipping",
+   "section_id": "comp-mf5nus0q",
+   "y": 1677,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Focaccia",
+   "section_id": "comp-mf5nus0q",
+   "y": 1715,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "flat leavened oven-baked Italian bread with rosemary and garlic",
+   "section_id": "comp-mf5nus0q",
+   "y": 1744,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h1",
+   "text": "Salads",
+   "section_id": "comp-mf5nus0q",
+   "y": 2167,
+   "font": "dancingscript-regular",
+   "size": "50.0869px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Garden Salad",
+   "section_id": "comp-mf5nus0q",
+   "y": 2250,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "lettuce, cucumbers, tomatoes, and carrots, tossed in a light vinaigrette.",
+   "section_id": "comp-mf5nus0q",
+   "y": 2280,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Greek Salad",
+   "section_id": "comp-mf5nus0q",
+   "y": 2318,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "tomatoes, cucumbers, paprika, feta cheese, and olives",
+   "section_id": "comp-mf5nus0q",
+   "y": 2348,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Whatever Salad",
+   "section_id": "comp-mf5nus0q",
+   "y": 2385,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "whatever we’ve got that day goes in to make a salad",
+   "section_id": "comp-mf5nus0q",
+   "y": 2415,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Salad Nicoise",
+   "section_id": "comp-mf5nus0q",
+   "y": 2453,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "canned tuna, boiled potato, green beans, tomato, lettuce, olives, dressed with a white wine vinaigrette",
+   "section_id": "comp-mf5nus0q",
+   "y": 2483,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Thai Green Papaya",
+   "section_id": "comp-mf5nus0q",
+   "y": 2550,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "shredded unripe papaya mixed with tomatoes, long beans, dried shrimp, garlic, bird's eye chili, lime juice, chopped peanuts, fried shallots, and nuoc cham dressing.",
+   "section_id": "comp-mf5nus0q",
+   "y": 2580,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Lebanese Slaw",
+   "section_id": "comp-mf5nus0q",
+   "y": 2646,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "crisp shredded cabbage with fresh dill, mint and parsley, tossed in a tangy lemon and olive oil dressing, and a sprinkle of sumac",
+   "section_id": "comp-mf5nus0q",
+   "y": 2676,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Fattoush",
+   "section_id": "comp-mf5nus0q",
+   "y": 2743,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Middle Eastern salad of fresh leaf lettuce, mint, parsley, shredded cabbage, cucumber, and red radish slices. Dressed with a tangy lemon vinaigrette, sprinkled with sumac, and topped with crispy toasted house-baked pita croutons for added crunch.",
+   "section_id": "comp-mf5nus0q",
+   "y": 2773,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Tabouleh Salad - Bali Lush Style",
+   "section_id": "comp-mf5nus0q",
+   "y": 2868,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "A refreshing Levantine herb salad with finely chopped parsley, soaked bulgur, tomatoes, mint, and scallions, seasoned with lemon juice and olive oil. We add finely diced cucumber for crunch.",
+   "section_id": "comp-mf5nus0q",
+   "y": 2898,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Palestinian Beetroot & Lentil",
+   "section_id": "comp-mf5nus0q",
+   "y": 2993,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "roasted beetroot, diced then combined with puy lentils, fresh herbs, and a tangy dill and yoghurt dressing",
+   "section_id": "comp-mf5nus0q",
+   "y": 3023,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h1",
+   "text": "Soups",
+   "section_id": "comp-mf5nus0q",
+   "y": 3499,
+   "font": "dancingscript-regular",
+   "size": "50.0869px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Turkish Red Lentil",
+   "section_id": "comp-mf5nus0q",
+   "y": 3583,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "hearty peasant style soup made from red lentils, cracked bulgur wheat, rice, onions, tomato paste, flavored with smoked paprika and dried mint flakes.",
+   "section_id": "comp-mf5nus0q",
+   "y": 3613,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Cauliflower Soup",
+   "section_id": "comp-mf5nus0q",
+   "y": 3679,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "oven baked cauliflower with thyme, rosemary and oregano blended till a smooth puree",
+   "section_id": "comp-mf5nus0q",
+   "y": 3709,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Tomato Soup",
+   "section_id": "comp-mf5nus0q",
+   "y": 3747,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "fresh tomatoes and mediterranean herbs cooked then blended till smooth",
+   "section_id": "comp-mf5nus0q",
+   "y": 3777,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pumpkin Soup",
+   "section_id": "comp-mf5nus0q",
+   "y": 3815,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "just pumpkin baked in the oven with herbs and olive oil, blitzed till a silky smooth puree",
+   "section_id": "comp-mf5nus0q",
+   "y": 3844,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Chinese Egg Drop Soup",
+   "section_id": "comp-mf5nus0q",
+   "y": 3882,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "chicken broth with silky poached egg ribbons, seasoned with ginger, scallions, white pepper. Served with either sweet corn kernels or diced tomatoes",
+   "section_id": "comp-mf5nus0q",
+   "y": 3912,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h1",
+   "text": "Pasta",
+   "section_id": "comp-mf5nus0q",
+   "y": 4099,
+   "font": "dancingscript-regular",
+   "size": "50.0869px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pomodoro",
+   "section_id": "comp-mf5nus0q",
+   "y": 4183,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "classic Italian tomato sauce made with ripe tomatoes, garlic, olive oil, and fresh herbs",
+   "section_id": "comp-mf5nus0q",
+   "y": 4213,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Pesto",
+   "section_id": "comp-mf5nus0q",
+   "y": 4251,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "house made with cashew nuts, fresh basil, garlic, Parmesan, and olive oil.",
+   "section_id": "comp-mf5nus0q",
+   "y": 4280,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Al Tonno",
+   "section_id": "comp-mf5nus0q",
+   "y": 4318,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Classic Italian pasta with tuna, garlic, olive oil, and chopped tomatoes",
+   "section_id": "comp-mf5nus0q",
+   "y": 4348,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Aglio Olio",
+   "section_id": "comp-mf5nus0q",
+   "y": 4386,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Simple Italian pasta dish with garlic, olive oil, and red pepper flakes, garnished with lots of finely chopped parsley",
+   "section_id": "comp-mf5nus0q",
+   "y": 4416,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Puttanesca",
+   "section_id": "comp-mf5nus0q",
+   "y": 4482,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Italian pasta tossed in a tasty sauce of diced tomatoes, anchovies, garlic, olives, capers, and a pinch of chili.",
+   "section_id": "comp-mf5nus0q",
+   "y": 4512,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h1",
+   "text": "Stir-Fry",
+   "section_id": "comp-mf5nus0q",
+   "y": 4700,
+   "font": "dancingscript-regular",
+   "size": "50.0869px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Chinese Black Bean Sauce",
+   "section_id": "comp-mf5nus0q",
+   "y": 4783,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "tender vegetables or meat stir-fried with fermented black bean sauce, garlic, ginger, and soy sauce. Umami bomb served with rice.",
+   "section_id": "comp-mf5nus0q",
+   "y": 4813,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Holy Basil Stir-Fry",
+   "section_id": "comp-mf5nus0q",
+   "y": 4880,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "fresh holy basil leaves, stir-fried with meat or vegetables, garlic, chili, and savory thai sauces",
+   "section_id": "comp-mf5nus0q",
+   "y": 4910,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Thai Stir Fried Chicken & Cashew Nuts",
+   "section_id": "comp-mf5nus0q",
+   "y": 4947,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Tender chicken stir-fried with Sumba sourced whole cashews, Thai spices, mixed paprika bell peppers, in a savory, slightly sweet sauce. Comes Served with rice. A guest favorite.",
+   "section_id": "comp-mf5nus0q",
+   "y": 4977,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Thai Ginger Flat Rice Noodles",
+   "section_id": "comp-mf5nus0q",
+   "y": 5044,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Stir-fried rice noodles with fresh ginger, shiitake mushrooms, and tender chicken in a savory oyster soy sauce",
+   "section_id": "comp-mf5nus0q",
+   "y": 5074,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h1",
+   "text": "Curries",
+   "section_id": "comp-mf5nus0q",
+   "y": 5261,
+   "font": "dancingscript-regular",
+   "size": "50.0869px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Kari Kuning",
+   "section_id": "comp-mf5nus0q",
+   "y": 5344,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Indonesian ‘yellow curry’ vibrantly colored by turmeric curry paste and coconut milk",
+   "section_id": "comp-mf5nus0q",
+   "y": 5374,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Thai Green Curry",
+   "section_id": "comp-mf5nus0q",
+   "y": 5412,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "coconut milk, mixed green vegetables with a vibrant, flavorful chili paste made from green chilies, garlic, lemongrass, cilantro roots, galangal, shallots, and spices",
+   "section_id": "comp-mf5nus0q",
+   "y": 5442,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Thai Red Curry",
+   "section_id": "comp-mf5nus0q",
+   "y": 5509,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "coconut milk, potato, carrots with an aromatic spice paste blend of red chili peppers, garlic, lemongrass, galangal, shallots, spices, and asian herbs",
+   "section_id": "comp-mf5nus0q",
+   "y": 5539,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Thai Panang Curry",
+   "section_id": "comp-mf5nus0q",
+   "y": 5605,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "A rich, coconut milk curry with a spice blend paste of dried chilies, lemongrass, galangal, kaffir lime leaf, and zest, cilantro roots, garlic, shallots, shrimp paste, and prominently featuring roasted peanuts for depth and richness.",
+   "section_id": "comp-mf5nus0q",
+   "y": 5635,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "*Choose to make it either vegetable only, tofu, tempe, chicken or pork.",
+   "section_id": "comp-mf5nus0q",
+   "y": 5760,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "**All our curries are mild chili heat. If you want extra heat, be sure to ask for ‘Pedas’ (spicy)",
+   "section_id": "comp-mf5nus0q",
+   "y": 5789,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h1",
+   "text": "Indonesian",
+   "section_id": "comp-mf5nus0q",
+   "y": 5948,
+   "font": "dancingscript-regular",
+   "size": "50.0869px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Gado Gado",
+   "section_id": "comp-mf5nus0q",
+   "y": 6031,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "salad consisting of mixed boiled vegetables, tofu, hard boiled egg, topped with a delicious fragrant and rich peanut sauce.",
+   "section_id": "comp-mf5nus0q",
+   "y": 6061,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Soto Ayam",
+   "section_id": "comp-mf5nus0q",
+   "y": 6128,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "aromatic chicken stock flavored with turmeric, lemon grass, served over vermicelli rice noodles, asian vegetables, topped with a hard boiled egg and crisp fried asian shallots",
+   "section_id": "comp-mf5nus0q",
+   "y": 6158,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Soto Ares Babi",
+   "section_id": "comp-mf5nus0q",
+   "y": 6224,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Balinese pork and banana tree trunk soup - very unique and traditional.",
+   "section_id": "comp-mf5nus0q",
+   "y": 6254,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "*Sate",
+   "section_id": "comp-mf5nus0q",
+   "y": 6292,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "cooked on our outdoor coconut charcoal grill station. Served with steamed rice, crispy ‘Emping’ crackers, asian pickles and peanut sauce.",
+   "section_id": "comp-mf5nus0q",
+   "y": 6322,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "*Nasi Campur",
+   "section_id": "comp-mf5nus0q",
+   "y": 6388,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "literally ‘mixed rice’. Ubiquitous all throughout Indonesia with every region doing their own take of steamed rice served on a single plate with a variety of side dishes such as vegetables, proteins, and sambal. Be sure to ask the kitchen staff what they can cook up today.",
+   "section_id": "comp-mf5nus0q",
+   "y": 6418,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "*Nasi Goreng",
+   "section_id": "comp-mf5nus0q",
+   "y": 6514,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "the Classic stir fried rice dish with garlic, shallots, sweet soy, and spices. Request to add a fried egg on top to have it ‘local style’",
+   "section_id": "comp-mf5nus0q",
+   "y": 6544,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "*Mie Goreng",
+   "section_id": "comp-mf5nus0q",
+   "y": 6610,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Indonesian fried noodles stir-fried with vegetables, garlic, soy sauce, and spices,",
+   "section_id": "comp-mf5nus0q",
+   "y": 6640,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "*Cap Cay",
+   "section_id": "comp-mf5nus0q",
+   "y": 6678,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "pronounced ‘Chup Chai’ - is a popular Indonesian mixed vegetable stir-fry dish, cooked with garlic, soy sauce.",
+   "section_id": "comp-mf5nus0q",
+   "y": 6708,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "*your choice of vegetable only, tofu, tempe, chicken or pork.",
+   "section_id": "comp-mf5nus0q",
+   "y": 6804,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h1",
+   "text": "Burgers & Sandwiches",
+   "section_id": "comp-mf5nus0q",
+   "y": 6963,
+   "font": "dancingscript-regular",
+   "size": "50.0869px",
+   "weight": "700",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Grilled Cheese",
+   "section_id": "comp-mf5nus0q",
+   "y": 7046,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "choose your bread: house sourdough or oat, rye and honey sourdough discard loaf . Choose your topping; tomato and onion or pineapple and onion",
+   "section_id": "comp-mf5nus0q",
+   "y": 7076,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Egg Salad Sandwich",
+   "section_id": "comp-mf5nus0q",
+   "y": 7143,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Chopped hard-boiled eggs mixed with savory mayonnaise, capers, onions, pickles, Dijon mustard, served on toasted house sourdough with a bed of lettuce.",
+   "section_id": "comp-mf5nus0q",
+   "y": 7173,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Make your own Tomato & Basil Sandwich",
+   "section_id": "comp-mf5nus0q",
+   "y": 7239,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "Fresh sliced tomatoes and whole basil leaves served with our house sourdough, butter, and herbed salt on the side, allowing you to assemble and season how you like it.",
+   "section_id": "comp-mf5nus0q",
+   "y": 7269,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h2",
+   "text": "Chicken Burger",
+   "section_id": "comp-mf5nus0q",
+   "y": 7336,
+   "font": "wix-madefor-text-v2",
+   "size": "23.0172px",
+   "weight": "500",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "house made burger bun, grilled chicken, your choice of salad and condiments",
+   "section_id": "comp-mf5nus0q",
+   "y": 7366,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  }
+ ],
+ "note": "Blocks are in visual order (desktop 1440px). Header, footer and the site-wide promo lightbox are in ../shared.json. Blog comments (spam) intentionally excluded."
+}

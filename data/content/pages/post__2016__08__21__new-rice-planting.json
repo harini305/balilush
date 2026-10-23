@@ -1,0 +1,114 @@
+{
+ "route": "/post/2016/08/21/new-rice-planting",
+ "url": "https://www.balilush.com/post/2016/08/21/new-rice-planting",
+ "title": "New Rice Planting",
+ "meta_description": null,
+ "og": {
+  "og:title": "New Rice Planting",
+  "og:description": "  #BaliVillageLife #RiceTerraces",
+  "og:image": "https://static.wixstatic.com/media/c180b4_055cdaddee064325a33c7282a4145d19~mv2_d_2016_1512_s_2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/c180b4_055cdaddee064325a33c7282a4145d19~mv2_d_2016_1512_s_2.jpg",
+  "og:image:width": "2016",
+  "og:image:height": "1512",
+  "og:url": "https://www.balilush.com/post/2016/08/21/new-rice-planting",
+  "og:site_name": "Bali Lush",
+  "og:type": "article",
+  "twitter:card": "summary_large_image",
+  "twitter:title": "New Rice Planting",
+  "twitter:description": "  #BaliVillageLife #RiceTerraces",
+  "twitter:image": "https://static.wixstatic.com/media/c180b4_055cdaddee064325a33c7282a4145d19~mv2_d_2016_1512_s_2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/c180b4_055cdaddee064325a33c7282a4145d19~mv2_d_2016_1512_s_2.jpg"
+ },
+ "canonical": [
+  "https://www.balilush.com/post/2016/08/21/new-rice-planting"
+ ],
+ "sections_in_order": [
+  {
+   "section_id": "comp-mcw29p15",
+   "y": 198,
+   "height": 3118,
+   "text_preview": "All Posts New Rice Planting camroncarlonhenry Aug 21, 2016 1 min read #BaliVillageLife #RiceTerraces 94 views 4 comments Post not marked as liked Recent Posts S"
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "span",
+   "text": "camroncarlonhenry",
+   "section_id": "header",
+   "y": 385,
+   "font": "madefor-text",
+   "size": "14px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "Aug 21, 2016",
+   "section_id": "header",
+   "y": 385,
+   "font": "madefor-text",
+   "size": "14px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "1 min read",
+   "section_id": "header",
+   "y": 385,
+   "font": "madefor-text",
+   "size": "14px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "h1",
+   "text": "New Rice Planting",
+   "section_id": "header",
+   "y": 429,
+   "font": "madefor-display-bold",
+   "size": "40px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "p",
+   "text": "#BaliVillageLife #RiceTerraces",
+   "section_id": "section",
+   "y": 1141,
+   "font": "madefor-text",
+   "size": "18px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "94 views",
+   "section_id": "section",
+   "y": 1274,
+   "font": "madefor-text",
+   "size": "14px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "span",
+   "text": "4 comments",
+   "section_id": "section",
+   "y": 1274,
+   "font": "madefor-text",
+   "size": "14px",
+   "weight": "400",
+   "color": "#000000"
+  },
+  {
+   "tag": "button",
+   "text": "Post not marked as liked",
+   "section_id": "section",
+   "y": 1274,
+   "font": "madefor-text",
+   "size": "14px",
+   "weight": "400",
+   "color": "#000000"
+  }
+ ],
+ "note": "Blocks are in visual order (desktop 1440px). Header, footer and the site-wide promo lightbox are in ../shared.json. Blog comments (spam) intentionally excluded."
+}
